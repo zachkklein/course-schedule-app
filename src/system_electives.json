@@ -1,0 +1,93 @@
+[
+    {
+      "code": "ES-0004",
+      "title": "Intro To Digital Logic",
+      "credit": 4
+    },
+    {
+      "code": "EE-0014",
+      "title": "Embedded Systems",
+      "credit": 4
+    },
+    {
+      "code": "EE-0020",
+      "title": "Introduction to Circuits and Electronics",
+      "credit": 4
+    },
+    {
+      "code": "CS-0045",
+      "title": "Computer Organization",
+      "credit": 4
+    },
+    {
+      "code": "CS-0107",
+      "title": "Compilers",
+      "credit": 3
+    },
+    {
+      "code": "CS-0111",
+      "title": "Operating Systems",
+      "credit": 4
+    },
+    {
+      "code": "CS-0112",
+      "title": "Networks",
+      "credit": 3
+    },
+    {
+      "code": "CS-0114",
+      "title": "Network Security",
+      "credit": 3
+    },
+    {
+      "code": "CS-0116",
+      "title": "Introduction to Security",
+      "credit": 3
+    },
+    {
+      "code": "CS-0117",
+      "title": "Internet-scale Distributed Systems",
+      "credit": 3
+    },
+    {
+      "code": "CS-0118",
+      "title": "Cloud Computing",
+      "credit": 3
+    },
+    {
+      "code": "CS-0119",
+      "title": "Big Data",
+      "credit": 3
+    },
+    {
+      "code": "CS-0120",
+      "title": "Web Programming and Engineering",
+      "credit": 3
+    },
+    {
+      "code": "CS-0121",
+      "title": "Software Engineering",
+      "credit": 3
+    },
+    {
+      "code": "CS-0122",
+      "title": "Parallel Computing",
+      "credit": 3
+    },
+    {
+      "code": "CS-0140",
+      "title": "Advanced Topics in Computer Architecture",
+      "credit": 3
+    },
+    {
+      "code": "CS-0146",
+      "title": "Computer Architecture",
+      "credit": 3
+    },
+    {
+      "code": "CS-0147",
+      "title": "Digital Design Verification",
+      "credit": 3
+    }
+  ]
+  

@@ -1,0 +1,33 @@
+[
+    {
+      "code": "PHY-0011",
+      "title": "Introductory Physics",
+      "credit": 5
+    },
+    {
+        "code": "CHEM-0001",
+        "title": "Introductory Chemistry",
+        "credit": 5
+    },
+    {
+        "code": "CHEM-0011",
+        "title": "Introductory Chemistry",
+        "credit": 5
+    },
+    {
+        "code": "CHEM-0016",
+        "title": "Chemistry of Materials",
+        "credit": 4
+    },
+    {
+      "code": "BIO-0013",
+      "title": "Cells and Organisms",
+      "credit": 5
+    },
+    {
+      "code": "BIO-0014",
+      "title": "Organisms and Population with Lab",
+      "credit": 5
+    }
+  ]
+  

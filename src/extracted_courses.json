@@ -1,0 +1,5177 @@
+[
+    {
+        "code": "AAST-0062",
+        "title": "Childhood Across Culture",
+        "credit": 3
+    },
+    {
+        "code": "AFR-0190",
+        "title": "Immigration: Public Opinion, Politics, and Media",
+        "credit": 4
+    },
+    {
+        "code": "AMER-0175",
+        "title": "Immigration: Public Opinion, Politics, and Media",
+        "credit": 4
+    },
+    {
+        "code": "ANTH-0020",
+        "title": "Global Cities",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0022",
+        "title": "Anthropology of Global Racisms",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0028",
+        "title": "The Anthropology of Capitalism",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0050",
+        "title": "Introduction to Archaeology",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0051",
+        "title": "North American Archaeology",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0078",
+        "title": "Music in Global Perspectives I",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0082",
+        "title": "Soundworlds of North Africa",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0099",
+        "title": "Internship In Anthropology",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0116",
+        "title": "Archaeology Methods, Ethics, and Dilemmas",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0124",
+        "title": "Queer Anthropology",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0137",
+        "title": "Language & Culture",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0149",
+        "title": "Selected Topics - Geographies of Crisis",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0149",
+        "title": "Selected Topics - Disability in Anthropological Perspective",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0149",
+        "title": "Selected Topics - Evolutionary Persp.on HumanDev",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0159",
+        "title": "Practicing in Food Systems",
+        "credit": 4
+    },
+    {
+        "code": "ANTH-0171",
+        "title": "Death, Mourning, Afterlives: Global Perspectives",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0185",
+        "title": "Current Topics In Anthropology - The Commons and Commoning",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0185",
+        "title": "Current Topics In Anthropology - Violence, Pleasure, & Value(s)",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0191",
+        "title": "Directed Reading",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0197",
+        "title": "Directed Research",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0198",
+        "title": "Apprenticeship In Anthropological Research",
+        "credit": 3
+    },
+    {
+        "code": "ANTH-0199",
+        "title": "Senior Honors Thesis B",
+        "credit": 8
+    },
+    {
+        "code": "ARB-0002",
+        "title": "Elementary Modern Standard Arabic",
+        "credit": 4
+    },
+    {
+        "code": "ARB-0004",
+        "title": "Intermediate Standard Arabic II",
+        "credit": 4
+    },
+    {
+        "code": "ARB-0022",
+        "title": "Arabic Reading, Composition & Conversation",
+        "credit": 4
+    },
+    {
+        "code": "ARB-0051",
+        "title": "Arabic Music Ensemble",
+        "credit": 2
+    },
+    {
+        "code": "ARB-0063",
+        "title": "Arabian Nights",
+        "credit": 3
+    },
+    {
+        "code": "ARB-0066",
+        "title": "Border Crossings in Literature and Film",
+        "credit": 3
+    },
+    {
+        "code": "ARB-0068",
+        "title": "Arab/Jewish Literature and Film",
+        "credit": 3
+    },
+    {
+        "code": "ARB-0092",
+        "title": "Special Topics - Classical Arabic Text",
+        "credit": 3
+    },
+    {
+        "code": "ARB-0093",
+        "title": "Directed Study",
+        "credit": 2
+    },
+    {
+        "code": "ARB-0094",
+        "title": "Directed Study",
+        "credit": 3
+    },
+    {
+        "code": "ARB-0157",
+        "title": "War and Cultural Memory in Literature and Cinema of the Middle East",
+        "credit": 3
+    },
+    {
+        "code": "ARB-0193",
+        "title": "Advanced Directed Study",
+        "credit": 2
+    },
+    {
+        "code": "ARB-0194",
+        "title": "Advanced Directed Study",
+        "credit": 3
+    },
+    {
+        "code": "ARCH-0027",
+        "title": "Classical Archaeology",
+        "credit": 3
+    },
+    {
+        "code": "ARCH-0028",
+        "title": "Ancient China, Korea, and Japan",
+        "credit": 3
+    },
+    {
+        "code": "ARCH-0030",
+        "title": "Introduction to Archaeology",
+        "credit": 3
+    },
+    {
+        "code": "ARCH-0031",
+        "title": "North American Archaeology",
+        "credit": 3
+    },
+    {
+        "code": "ARCH-0116",
+        "title": "Archaeology Methods, Ethics, and Dilemmas",
+        "credit": 3
+    },
+    {
+        "code": "ARCH-0163",
+        "title": "Aegean Archaeology",
+        "credit": 3
+    },
+    {
+        "code": "ARCH-0175",
+        "title": "Introduction to Geospatial Humanities",
+        "credit": 3
+    },
+    {
+        "code": "BME-0184",
+        "title": "BME Entrepreneurship & Strategy",
+        "credit": 3
+    },
+    {
+        "code": "CER-0102",
+        "title": "Introduction to Ceramics",
+        "credit": 4
+    },
+    {
+        "code": "CER-0132",
+        "title": "Ceramics Technical Explorations",
+        "credit": 4
+    },
+    {
+        "code": "CER-0133",
+        "title": "Narrative Projects",
+        "credit": 4
+    },
+    {
+        "code": "CER-0137",
+        "title": "Ceramics Sculpture",
+        "credit": 4
+    },
+    {
+        "code": "CH-0001",
+        "title": "Introduction To Community Health",
+        "credit": 3
+    },
+    {
+        "code": "CH-0002",
+        "title": "Introduction to the U.S. Healthcare System",
+        "credit": 3
+    },
+    {
+        "code": "CH-0011",
+        "title": "Introduction to Global Health",
+        "credit": 3
+    },
+    {
+        "code": "CH-0103",
+        "title": "Health Policy Analysis",
+        "credit": 3
+    },
+    {
+        "code": "CH-0106",
+        "title": "Health, Ethics, And Policy",
+        "credit": 3
+    },
+    {
+        "code": "CH-0108",
+        "title": "Epidemics: Plagues, Peoples and Politics",
+        "credit": 4
+    },
+    {
+        "code": "CH-0112",
+        "title": "Health Economics",
+        "credit": 3
+    },
+    {
+        "code": "CH-0182",
+        "title": "Community-Based Participatory Research Fieldwork",
+        "credit": 4
+    },
+    {
+        "code": "CH-0183",
+        "title": "Promise & Peril of New Technology in Healthcare",
+        "credit": 4
+    },
+    {
+        "code": "CH-0187",
+        "title": "Disability & Public Health Policy",
+        "credit": null
+    },
+    {
+        "code": "CHNS-0002",
+        "title": "Elementary Chinese II",
+        "credit": 4
+    },
+    {
+        "code": "CHNS-0004",
+        "title": "Intermediate Chinese II",
+        "credit": 4
+    },
+    {
+        "code": "CHNS-0022",
+        "title": "Reading & Conversation II",
+        "credit": 4
+    },
+    {
+        "code": "CHNS-0052",
+        "title": "Chinese Characters",
+        "credit": 3
+    },
+    {
+        "code": "CHNS-0072",
+        "title": "Martial Arts in Chinese Literature and Film",
+        "credit": 3
+    },
+    {
+        "code": "CHNS-0075",
+        "title": "Wandering with Lu Xun",
+        "credit": 3
+    },
+    {
+        "code": "CHNS-0093",
+        "title": "Directed Study",
+        "credit": 2
+    },
+    {
+        "code": "CHNS-0094",
+        "title": "Directed Study",
+        "credit": 3
+    },
+    {
+        "code": "CHNS-0122",
+        "title": "Advanced Chinese II",
+        "credit": 4
+    },
+    {
+        "code": "CHNS-0127",
+        "title": "Reading Short Stories",
+        "credit": 3
+    },
+    {
+        "code": "CHNS-0185",
+        "title": "China and the West",
+        "credit": 3
+    },
+    {
+        "code": "CHNS-0193",
+        "title": "Advanced Directed Study",
+        "credit": 2
+    },
+    {
+        "code": "CHNS-0194",
+        "title": "Advanced Directed Study",
+        "credit": 3
+    },
+    {
+        "code": "CHNS-0199",
+        "title": "Senior Honors Thesis",
+        "credit": 8
+    },
+    {
+        "code": "CLS-0027",
+        "title": "Classical Archaeology",
+        "credit": 3
+    },
+    {
+        "code": "CLS-0028",
+        "title": "Ancient China, Korea, and Japan",
+        "credit": 3
+    },
+    {
+        "code": "CLS-0032",
+        "title": "Roman Literature: Texts and Contexts - Roman Lit: Text & Context",
+        "credit": 3
+    },
+    {
+        "code": "CLS-0033",
+        "title": "Invitation to Sanskrit Literature",
+        "credit": 3
+    },
+    {
+        "code": "CLS-0038",
+        "title": "History Of Ancient Rome",
+        "credit": 0
+    },
+    {
+        "code": "CLS-0059",
+        "title": "Introduction to the New Testament",
+        "credit": 3
+    },
+    {
+        "code": "CLS-0083",
+        "title": "Special Topics In Classical Literature - Classical Arabic Text",
+        "credit": 3
+    },
+    {
+        "code": "CLS-0110",
+        "title": "Empresses, Saints, & Scholars: The Women Of Byzantium",
+        "credit": 3
+    },
+    {
+        "code": "CLS-0118",
+        "title": "Creation to Annihilation in Ancient Mediterranean",
+        "credit": 3
+    },
+    {
+        "code": "CLS-0125",
+        "title": "Introduction to Geospatial Humanities",
+        "credit": 3
+    },
+    {
+        "code": "CLS-0141",
+        "title": "Classical Historians - Writing Empire",
+        "credit": 3
+    },
+    {
+        "code": "CLS-0152",
+        "title": "History Of Modern Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "CLS-0154",
+        "title": "Islamic Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "CLS-0161",
+        "title": "Introduction to Digital Humanities",
+        "credit": 3
+    },
+    {
+        "code": "CLS-0163",
+        "title": "Aegean Archaeology",
+        "credit": 3
+    },
+    {
+        "code": "CLS-0176",
+        "title": "Ancient Medicine Seminar",
+        "credit": 4
+    },
+    {
+        "code": "CLS-0178",
+        "title": "Research Topics in Ancient Medicine and its Transmission",
+        "credit": 3
+    },
+    {
+        "code": "CLS-0185",
+        "title": "Seminar In Ancient History - Roman Imperialism",
+        "credit": 3
+    },
+    {
+        "code": "CLS-0191",
+        "title": "Advanced Special Study Or Seminar In Classics - Race Before Race in Anct Med",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0001",
+        "title": "Introduction to Child Study and Human Development",
+        "credit": 0
+    },
+    {
+        "code": "CSHD-0034",
+        "title": "Children, Nature, and the Development of Earth Stewards",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0042",
+        "title": "Inquiry and Analysis in Child Study and Human Development",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0062",
+        "title": "Childhood Across Culture",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0109",
+        "title": "Autism Across the Lifespan",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0124",
+        "title": "American Sign Language I",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0125",
+        "title": "American Sign Language II",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0126",
+        "title": "American Sign Language III",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0143",
+        "title": "Special Topics - Evolut.perspect.human D",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0143",
+        "title": "Special Topics - Observing Children in Natural",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0143",
+        "title": "Special Topics - Generous Listening and Dialogue: Theory and Practi",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0143",
+        "title": "Special Topics - Incarceration, Children & Fam",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0143",
+        "title": "Special Topics - Children Arts and Media",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0143",
+        "title": "Special Topics - Dev'l Measuremt & Soc. Justice",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0161",
+        "title": "Advanced Personal-Social Development",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0165",
+        "title": "Family-School Connections in a Global Society",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0169",
+        "title": "Creating Children\u2019s Media",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0175",
+        "title": "Introduction to Art Therapy",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0176",
+        "title": "Children's Literature",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0179",
+        "title": "Child Art",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0183",
+        "title": "Youth Activism, Civic Identity, & Moral Development",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0186",
+        "title": "Homelessness In America",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0187",
+        "title": "Child Mental Health in Educational Spaces",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0189",
+        "title": "Human-Animal Interaction in Childhood and Adolescence",
+        "credit": 3
+    },
+    {
+        "code": "CSHD-0193",
+        "title": "Pediatric Psychology",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0014",
+        "title": "Introduction To Ethics",
+        "credit": 0
+    },
+    {
+        "code": "CVS-0017",
+        "title": "War and Terrorism",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0022",
+        "title": "Sociology of Violence",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0028",
+        "title": "Hindus And Christians",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0031",
+        "title": "Dissent and Democracy: American Literature to 19003",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0032",
+        "title": "Children, Nature, and the Development of Earth Stewards",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0046",
+        "title": "Social-Emotional & Civic Learning in Schools",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0047",
+        "title": "Online Video: Algorithms, Creators & Social Impact",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0052",
+        "title": "Western Political Thought II",
+        "credit": 0
+    },
+    {
+        "code": "CVS-0061",
+        "title": "Introduction To International Relations",
+        "credit": 0
+    },
+    {
+        "code": "CVS-0063",
+        "title": "Un-American Activities",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0074",
+        "title": "Political Liberalism and Religion",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0075",
+        "title": "Socially Engaged Art",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0112",
+        "title": "Sociological Theory",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0113",
+        "title": "Disability & Public Health Policy",
+        "credit": 4
+    },
+    {
+        "code": "CVS-0115",
+        "title": "Global Justice",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0117",
+        "title": "Religion, Violence and Sexuality",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0124",
+        "title": "Environmental Sociology",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0132",
+        "title": "Family-School Connections in a Global Society",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0133",
+        "title": "Topics In Economic Development",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0149",
+        "title": "Societal Aspects of Design: Integration, Innovation, and Impact",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0151",
+        "title": "Special Topics - Generous Listening & Dialogue",
+        "credit": 2
+    },
+    {
+        "code": "CVS-0151",
+        "title": "Special Topics - 20th Century Pol. Philosophy",
+        "credit": 4
+    },
+    {
+        "code": "CVS-0151",
+        "title": "Special Topics - Political Violence in State and Society",
+        "credit": 6
+    },
+    {
+        "code": "CVS-0161",
+        "title": "Homelessness In America",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0184",
+        "title": "Creating Children\u2019s Media",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0187",
+        "title": "Entrepreneurship for Social Impact",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0189",
+        "title": "Issues In American Public Policy",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0196",
+        "title": "Independent Study - Community Organizing in Oaxaca",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0196",
+        "title": "Independent Study - Narr Story: Building Power",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0196",
+        "title": "Independent Study - Impact of College in Prison",
+        "credit": 3
+    },
+    {
+        "code": "CVS-0198",
+        "title": "Tisch Scholars Senior Capstone",
+        "credit": 3
+    },
+    {
+        "code": "DH-0101",
+        "title": "Introduction to Digital Humanities",
+        "credit": 3
+    },
+    {
+        "code": "DIG-0005",
+        "title": "Introduction to Digital Media",
+        "credit": 4
+    },
+    {
+        "code": "DIG-0140",
+        "title": "Thinking Machines and Automata",
+        "credit": 4
+    },
+    {
+        "code": "DIG-0142",
+        "title": "Poetic Data",
+        "credit": 4
+    },
+    {
+        "code": "DIG-0144",
+        "title": "Programming for Visual Thinkers",
+        "credit": 4
+    },
+    {
+        "code": "DIG-0150",
+        "title": "Virtual Reality",
+        "credit": 4
+    },
+    {
+        "code": "DIG-0153",
+        "title": "America Imaginaria",
+        "credit": 4
+    },
+    {
+        "code": "DNC-0013",
+        "title": "Ballet II",
+        "credit": 2
+    },
+    {
+        "code": "DNC-0015",
+        "title": "Ballet IV",
+        "credit": 2
+    },
+    {
+        "code": "DNC-0021",
+        "title": "Modern I",
+        "credit": 2
+    },
+    {
+        "code": "DNC-0030",
+        "title": "Hip Hop: Introduction to Breakin' Culture/Practice",
+        "credit": 0
+    },
+    {
+        "code": "DNC-0032",
+        "title": "Hip Hop II: Study Through the Cypher",
+        "credit": 0
+    },
+    {
+        "code": "DNC-0035",
+        "title": "Contemporary Jazz Dance",
+        "credit": 2
+    },
+    {
+        "code": "DNC-0042",
+        "title": "Afro-Haitian Dance",
+        "credit": 2
+    },
+    {
+        "code": "DNC-0060",
+        "title": "Dance Production Practicum",
+        "credit": 1
+    },
+    {
+        "code": "DNC-0061",
+        "title": "Dance Performance Practicum",
+        "credit": 2
+    },
+    {
+        "code": "DNC-0071",
+        "title": "Dance Movement And Creative Process",
+        "credit": 3
+    },
+    {
+        "code": "DNC-0077",
+        "title": "Dance on Camera",
+        "credit": 3
+    },
+    {
+        "code": "DNC-0085",
+        "title": "Dance and the Hollywood Musical",
+        "credit": 3
+    },
+    {
+        "code": "DNC-0092",
+        "title": "Special Topics - Tap Dance II",
+        "credit": 2
+    },
+    {
+        "code": "DNC-0092",
+        "title": "Special Topics - Latin Social Dance",
+        "credit": 2
+    },
+    {
+        "code": "DNC-0092",
+        "title": "Special Topics - Movement as Medicine",
+        "credit": 3
+    },
+    {
+        "code": "DNC-0092",
+        "title": "Special Topics - Mixed Martial Arts for Movers",
+        "credit": 2
+    },
+    {
+        "code": "DNC-0177",
+        "title": "Dance on Camera",
+        "credit": 3
+    },
+    {
+        "code": "DNC-0191",
+        "title": "Advanced Dance Studies",
+        "credit": 3
+    },
+    {
+        "code": "DNC-0192",
+        "title": "Dance Research Project - Dance Research Project",
+        "credit": 3
+    },
+    {
+        "code": "DRW-0018",
+        "title": "Intro to Drawing: Intensive",
+        "credit": 4
+    },
+    {
+        "code": "DRW-0023",
+        "title": "Mindful Drawing",
+        "credit": 4
+    },
+    {
+        "code": "DRW-0024",
+        "title": "Figuremania",
+        "credit": 4
+    },
+    {
+        "code": "DRW-0028",
+        "title": "Interdisciplinary Drawing",
+        "credit": 4
+    },
+    {
+        "code": "DRW-0069",
+        "title": "Intermediate Drawing: The Human Body Inside and Out",
+        "credit": 4
+    },
+    {
+        "code": "DRW-0120",
+        "title": "Advanced Drawing",
+        "credit": 4
+    },
+    {
+        "code": "DRW-0131",
+        "title": "Drawing Dialogue",
+        "credit": 4
+    },
+    {
+        "code": "DRWM-0003",
+        "title": "Art As Process",
+        "credit": 4
+    },
+    {
+        "code": "DRWM-0026",
+        "title": "Drawing: Foundation",
+        "credit": 4
+    },
+    {
+        "code": "DRWM-0027",
+        "title": "Drawing: Mixed Media",
+        "credit": 4
+    },
+    {
+        "code": "DRWM-0035",
+        "title": "Figure Drawing",
+        "credit": 4
+    },
+    {
+        "code": "DRWM-0063",
+        "title": "Perspective Drawing",
+        "credit": 4
+    },
+    {
+        "code": "EC-0005",
+        "title": "Principles Of Economics",
+        "credit": 0
+    },
+    {
+        "code": "EC-0008",
+        "title": "Principles Of Economics With Environmental Applications",
+        "credit": 0
+    },
+    {
+        "code": "EC-0009",
+        "title": "Review of Economic Principles with Environmental Applications",
+        "credit": 2
+    },
+    {
+        "code": "EC-0011",
+        "title": "Intermediate Microeconomic Theory",
+        "credit": 3
+    },
+    {
+        "code": "EC-0012",
+        "title": "Intermediate Macroeconomic Theory",
+        "credit": 3
+    },
+    {
+        "code": "EC-0016",
+        "title": "Foundations of Quantitative Economics",
+        "credit": 3
+    },
+    {
+        "code": "EC-0018",
+        "title": "Quantitative Intermediate Macroeconomic Theory",
+        "credit": 3
+    },
+    {
+        "code": "EC-0019",
+        "title": "Review Of Quantitative Macroeconomic Theory",
+        "credit": 2
+    },
+    {
+        "code": "EC-0024",
+        "title": "Game Theory",
+        "credit": 3
+    },
+    {
+        "code": "EC-0030",
+        "title": "Environmental Economics",
+        "credit": 3
+    },
+    {
+        "code": "EC-0035",
+        "title": "Economic Development",
+        "credit": 3
+    },
+    {
+        "code": "EC-0048",
+        "title": "Health Economics",
+        "credit": 3
+    },
+    {
+        "code": "EC-0050",
+        "title": "Introduction to Finance",
+        "credit": 3
+    },
+    {
+        "code": "EC-0060",
+        "title": "International Economics",
+        "credit": 0
+    },
+    {
+        "code": "EC-0090",
+        "title": "Applied Economics Independent Study - Independent Study",
+        "credit": 1
+    },
+    {
+        "code": "EC-0091",
+        "title": "Introductory Selected Topics - Topics in Economics and Gender",
+        "credit": 3
+    },
+    {
+        "code": "EC-0118",
+        "title": "Quantitative Economic Growth",
+        "credit": 3
+    },
+    {
+        "code": "EC-0119",
+        "title": "Quantitative Games & Information",
+        "credit": 3
+    },
+    {
+        "code": "EC-0124",
+        "title": "State And Local Public Finance",
+        "credit": 3
+    },
+    {
+        "code": "EC-0127",
+        "title": "Urban Economics",
+        "credit": 3
+    },
+    {
+        "code": "EC-0132",
+        "title": "Economics Of Energy Markets",
+        "credit": 3
+    },
+    {
+        "code": "EC-0136",
+        "title": "Topics In Economic Development",
+        "credit": 3
+    },
+    {
+        "code": "EC-0144",
+        "title": "Income Inequality, Poverty, And Economic Justice",
+        "credit": 3
+    },
+    {
+        "code": "EC-0148",
+        "title": "Topics in Health Economics",
+        "credit": 3
+    },
+    {
+        "code": "EC-0150",
+        "title": "Financial Economics",
+        "credit": 3
+    },
+    {
+        "code": "EC-0151",
+        "title": "Monetary Economics",
+        "credit": 3
+    },
+    {
+        "code": "EC-0157",
+        "title": "Topics in Finance and Entrepreneurship",
+        "credit": 3
+    },
+    {
+        "code": "EC-0161",
+        "title": "International Trade",
+        "credit": 3
+    },
+    {
+        "code": "EC-0162",
+        "title": "International Finance",
+        "credit": 3
+    },
+    {
+        "code": "EC-0184",
+        "title": "Number & Size Of Nations",
+        "credit": 3
+    },
+    {
+        "code": "EC-0190",
+        "title": "Independent Study",
+        "credit": 3
+    },
+    {
+        "code": "EC-0192",
+        "title": "Advanced Seminar - Topics in Political Ec and Dev",
+        "credit": 3
+    },
+    {
+        "code": "EC-0192",
+        "title": "Advanced Seminar - Advanced Topics Interna. Trade",
+        "credit": 3
+    },
+    {
+        "code": "EC-0192",
+        "title": "Advanced Seminar - Sustainable Fin and Investment",
+        "credit": null
+    },
+    {
+        "code": "EC-0196",
+        "title": "Senior Honors Thesis B",
+        "credit": 8
+    },
+    {
+        "code": "EC-0198",
+        "title": "Senior Thesis",
+        "credit": 4
+    },
+    {
+        "code": "ED-0001",
+        "title": "School & Society",
+        "credit": 3
+    },
+    {
+        "code": "ED-0010",
+        "title": "Teaching and Learning in K-12 History and Social Studies",
+        "credit": 3
+    },
+    {
+        "code": "ED-0013",
+        "title": "The Global Educator: Education in Post Colonial Africa",
+        "credit": 3
+    },
+    {
+        "code": "ED-0015",
+        "title": "Social-Emotional & Civic Learning in Schools",
+        "credit": 3
+    },
+    {
+        "code": "ED-0020",
+        "title": "Seminar for Learning Assistants in STEM",
+        "credit": 3
+    },
+    {
+        "code": "ED-0034",
+        "title": "Children, Nature, and the Development of Earth Stewards",
+        "credit": 3
+    },
+    {
+        "code": "ED-0092",
+        "title": "Special Topics - Sociology of Higher Education",
+        "credit": 6
+    },
+    {
+        "code": "ED-0102",
+        "title": "Supervised Teaching In The Middle And Secondary School",
+        "credit": 3
+    },
+    {
+        "code": "ED-0123",
+        "title": "Practice Of Teaching English",
+        "credit": 3
+    },
+    {
+        "code": "ED-0145",
+        "title": "Family-School Connections in a Global Society",
+        "credit": 3
+    },
+    {
+        "code": "ED-0161",
+        "title": "Anthropology and Sociology of Schooling",
+        "credit": 3
+    },
+    {
+        "code": "ED-0167",
+        "title": "Critical Race Theory",
+        "credit": 3
+    },
+    {
+        "code": "ED-0168",
+        "title": "Pedagogies",
+        "credit": 3
+    },
+    {
+        "code": "ED-0170",
+        "title": "Critical Educational Policy Studies",
+        "credit": 3
+    },
+    {
+        "code": "ED-0192",
+        "title": "Special Topics - Independent Study",
+        "credit": 6
+    },
+    {
+        "code": "ED-0192",
+        "title": "Special Topics - Making to Learn",
+        "credit": 4
+    },
+    {
+        "code": "ED-0192",
+        "title": "Special Topics - Cultural & Critical Perspectives in STEM Ed",
+        "credit": 3
+    },
+    {
+        "code": "ED-0192",
+        "title": "Special Topics - Critical Qualitative Methods",
+        "credit": 3
+    },
+    {
+        "code": "ED-0192",
+        "title": "Special Topics - Teaching New Americans",
+        "credit": 3
+    },
+    {
+        "code": "ED-0192",
+        "title": "Special Topics - School Psych Internship",
+        "credit": 1
+    },
+    {
+        "code": "ED-0192",
+        "title": "Special Topics - Computing Education Research Projects",
+        "credit": 6
+    },
+    {
+        "code": "ED-0192",
+        "title": "Special Topics - Independent Study: Biology & Humanity",
+        "credit": 3
+    },
+    {
+        "code": "ED-0192",
+        "title": "Special Topics - Reimagine Immigrant Education",
+        "credit": 3
+    },
+    {
+        "code": "ED-0192",
+        "title": "Special Topics - Graduate Writing Seminar STEM",
+        "credit": 6
+    },
+    {
+        "code": "ED-0192",
+        "title": "Special Topics - Methods & Approaches to Early Algebra Research",
+        "credit": 6
+    },
+    {
+        "code": "ED-0192",
+        "title": "Special Topics - Social Emotional & Civic Learning",
+        "credit": 3
+    },
+    {
+        "code": "ED-0198",
+        "title": "Field Studies Education",
+        "credit": 4
+    },
+    {
+        "code": "EM-0052",
+        "title": "Technical & Managerial Communication",
+        "credit": 3
+    },
+    {
+        "code": "EM-0054",
+        "title": "Engineering Leadership",
+        "credit": 3
+    },
+    {
+        "code": "EM-0153",
+        "title": "Management Of Innovation",
+        "credit": 3
+    },
+    {
+        "code": "EM-0193",
+        "title": "Special Topics in Engineering Management - Lean Software Leadership",
+        "credit": 3
+    },
+    {
+        "code": "EM-0193",
+        "title": "Special Topics in Engineering Management - Business Essentials",
+        "credit": 3
+    },
+    {
+        "code": "EM-0193",
+        "title": "Special Topics in Engineering Management - Introduction to Intellectual Property",
+        "credit": 2
+    },
+    {
+        "code": "EM-0193",
+        "title": "Special Topics in Engineering Management - Starting a Small Business",
+        "credit": 2
+    },
+    {
+        "code": "ENG-0001",
+        "title": "Expository Writing",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0002",
+        "title": "Freshman Writing Seminar - Differences",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0002",
+        "title": "Freshman Writing Seminar - Differences",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0002",
+        "title": "Freshman Writing Seminar - Differences",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0002",
+        "title": "Freshman Writing Seminar - Perceiving Environment",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0002",
+        "title": "Freshman Writing Seminar - Digital Media Cultures",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0002",
+        "title": "Freshman Writing Seminar - Digital Media Cultures",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0002",
+        "title": "Freshman Writing Seminar - Other Worlds",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0002",
+        "title": "Freshman Writing Seminar - Other Worlds",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0002",
+        "title": "Freshman Writing Seminar - Love and Sexuality",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0002",
+        "title": "Freshman Writing Seminar - African American Presence",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0002",
+        "title": "Freshman Writing Seminar - Perceiving Environment",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0002",
+        "title": "Freshman Writing Seminar - Family Ties",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0002",
+        "title": "Freshman Writing Seminar - Family Ties",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0002",
+        "title": "Freshman Writing Seminar - Road Stories",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0002",
+        "title": "Freshman Writing Seminar - Asian American Perspectives",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0002",
+        "title": "Freshman Writing Seminar - Love and Sexuality",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0003",
+        "title": "Reading, Writing, Research",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0004",
+        "title": "Writing Seminar - Road Stories",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0004",
+        "title": "Writing Seminar - Road Stories",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0004",
+        "title": "Writing Seminar - Differences",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0005",
+        "title": "Creative Writing: Fiction",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0006",
+        "title": "Creative Writing: Poetry",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0010",
+        "title": "Creative Non-Fiction Writing",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0013",
+        "title": "Writing Fiction: Advanced",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0014",
+        "title": "Topics in Fiction Writing - Starting a Novel",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0016",
+        "title": "Writing Poetry: Advanced",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0017",
+        "title": "Topics in Poetry Writing - Documentary Poetry",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0023",
+        "title": "Dissent and Democracy: American Literature to 1900",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0040",
+        "title": "Literature Of The Beat Generation",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0051",
+        "title": "Shakespeare- S",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0055",
+        "title": "Of Microscopes & Monsters: Science and Literature",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0064",
+        "title": "American Fiction From 1950 To The Present",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0069",
+        "title": "Contemporary Multi-ethnic Literature",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0083",
+        "title": "Un-American Activities",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0088",
+        "title": "Film Noir And The American Tradition",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0092",
+        "title": "Topics In Literature And Culture - South Asian Diasporic Lit.",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0092",
+        "title": "Topics In Literature And Culture - James Baldwin & Company",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0105",
+        "title": "Middle English Literature",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0109",
+        "title": "Ovid And The Ovidian Tradition",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0117",
+        "title": "Age Of Unreason: 1660-1740",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0135",
+        "title": "Virginia Woolf & Bloomsbury Group",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0146",
+        "title": "20th C. Black Women's Writing",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0157",
+        "title": "Poets On Poetry",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0180",
+        "title": "Psychoanalysis and Cinema",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0192",
+        "title": "Seminar In English - Race & Disability",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0194",
+        "title": "Special Topics - Globalization and its Fictions",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0194",
+        "title": "Special Topics - Short Story Writing",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0194",
+        "title": "Special Topics - Studies in Brit Lit 1780-1950",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0194",
+        "title": "Special Topics - Renaissance Drama",
+        "credit": 3
+    },
+    {
+        "code": "ENG-0199",
+        "title": "Senior Honors Thesis B",
+        "credit": 8
+    },
+    {
+        "code": "ENP-0028",
+        "title": "Philosophy of Technology",
+        "credit": 3
+    },
+    {
+        "code": "ENP-0053",
+        "title": "Engineering Psychology",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0010",
+        "title": "Preparing New and Aspiring Leaders",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0015",
+        "title": "Living a Life with Purpose",
+        "credit": null
+    },
+    {
+        "code": "ENT-0100",
+        "title": "Creativity, Innovation and Entrepreneurial Thinking",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0101",
+        "title": "Entrepreneurship And Business Planning",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0103",
+        "title": "Entrepreneurial Finance",
+        "credit": 4
+    },
+    {
+        "code": "ENT-0105",
+        "title": "Entrepreneurial Marketing",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0106",
+        "title": "The Science of Sales",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0107",
+        "title": "Entrepreneurial Leadership",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0109",
+        "title": "Societal Aspects of Design: Integration, Innovation, and Impact",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0112",
+        "title": "Communication Skills",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0141",
+        "title": "Entrepreneurship for Social Impact",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0159",
+        "title": "Art Entrepreneurship",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0162",
+        "title": "Bringing Products to Market",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0193",
+        "title": "Special Topics - Building your Entreprnrl Toolk",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0193",
+        "title": "Special Topics - Lean Software Leadership",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0193",
+        "title": "Special Topics - Business Essentials",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0193",
+        "title": "Special Topics - Intro to Intellectual Property",
+        "credit": 2
+    },
+    {
+        "code": "ENT-0193",
+        "title": "Special Topics - Starting a Small Business",
+        "credit": 2
+    },
+    {
+        "code": "ENT-0194",
+        "title": "Special Topics - Inside the Classroom",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0198",
+        "title": "Entrepreneurial Internship",
+        "credit": 3
+    },
+    {
+        "code": "ENT-0199",
+        "title": "Entrepreneurial Fieldstudy",
+        "credit": 3
+    },
+    {
+        "code": "ENV-0034",
+        "title": "Children, Nature, and the Development of Earth Stewards",
+        "credit": 3
+    },
+    {
+        "code": "ENV-0082",
+        "title": "Imagining the Environment in German Literature",
+        "credit": 3
+    },
+    {
+        "code": "ENV-0100",
+        "title": "Sustainability in Action",
+        "credit": 3
+    },
+    {
+        "code": "ENV-0114",
+        "title": "Environmental Sociology",
+        "credit": 3
+    },
+    {
+        "code": "ENV-0135",
+        "title": "Environmental Policy - Linking US and Global Politics",
+        "credit": 3
+    },
+    {
+        "code": "ENV-0135",
+        "title": "Environmental Policy - U.S. Challenges and Solutions",
+        "credit": 3
+    },
+    {
+        "code": "ENV-0150",
+        "title": "Environment, Communication and Culture",
+        "credit": 3
+    },
+    {
+        "code": "ENV-0152",
+        "title": "Seminar in Environmental Negotiations",
+        "credit": 3
+    },
+    {
+        "code": "ENV-0153",
+        "title": "The Deep History of Climate Adaptation",
+        "credit": 3
+    },
+    {
+        "code": "ENV-0162",
+        "title": "Global Water Systems: Science & Policy",
+        "credit": 3
+    },
+    {
+        "code": "ENV-0190",
+        "title": "Practicing in Food Systems",
+        "credit": 4
+    },
+    {
+        "code": "ENV-0195",
+        "title": "Selected Topics - Beyond the Human",
+        "credit": 3
+    },
+    {
+        "code": "ES-0085",
+        "title": "Professional Preparation for Cooperative Education",
+        "credit": 1
+    },
+    {
+        "code": "EXP-0001",
+        "title": "Experimental College - Autobiographical Comics",
+        "credit": 3
+    },
+    {
+        "code": "EXP-0002",
+        "title": "Experimental College - Racism in the Legal System",
+        "credit": 3
+    },
+    {
+        "code": "EXP-0003",
+        "title": "Experimental College - AI & the Mind: Adverse Effects",
+        "credit": 3
+    },
+    {
+        "code": "EXP-0004",
+        "title": "Experimental College - Climate Futurism",
+        "credit": 3
+    },
+    {
+        "code": "EXP-0005",
+        "title": "Experimental College - Feminist Politics of Place",
+        "credit": 3
+    },
+    {
+        "code": "EXP-0006",
+        "title": "Experimental College - Creative Writing & Math",
+        "credit": 3
+    },
+    {
+        "code": "EXP-0008",
+        "title": "Experimental College - Sports, Religion, Soc. Justice",
+        "credit": 3
+    },
+    {
+        "code": "EXP-0010",
+        "title": "Experimental College - Trans History & Influence",
+        "credit": 3
+    },
+    {
+        "code": "EXP-0011",
+        "title": "Experimental College - Public Health/Community Power",
+        "credit": 3
+    },
+    {
+        "code": "EXP-0012",
+        "title": "Experimental College - Intro to Investing",
+        "credit": 1
+    },
+    {
+        "code": "EXP-0013",
+        "title": "Experimental College - Neurodiversity in Lit & Life",
+        "credit": 3
+    },
+    {
+        "code": "EXP-0014",
+        "title": "Experimental College - Reimagine Immigrant Education",
+        "credit": 3
+    },
+    {
+        "code": "EXP-0015",
+        "title": "Experimental College - Food Media",
+        "credit": 3
+    },
+    {
+        "code": "EXP-0016",
+        "title": "Experimental College - Korea: 1864 to Asian Tiger",
+        "credit": 3
+    },
+    {
+        "code": "EXP-0018",
+        "title": "Experimental College - Deserts: Past & Future",
+        "credit": 3
+    },
+    {
+        "code": "FIB-0102",
+        "title": "Introduction to Fibers",
+        "credit": 4
+    },
+    {
+        "code": "FIB-0105",
+        "title": "Sculptural Knitting",
+        "credit": 4
+    },
+    {
+        "code": "FIB-0145",
+        "title": "Weaving: Concept & Construct",
+        "credit": 4
+    },
+    {
+        "code": "FIB-0160",
+        "title": "Intermediate Fibers Studio",
+        "credit": 4
+    },
+    {
+        "code": "FIB-0191",
+        "title": "Special Topics - Quilting Reimagined",
+        "credit": 4
+    },
+    {
+        "code": "FMS-0001",
+        "title": "Art of the Moving Image",
+        "credit": 0
+    },
+    {
+        "code": "FMS-0002",
+        "title": "Global History of Cinema",
+        "credit": 0
+    },
+    {
+        "code": "FMS-0010",
+        "title": "Film and Media Production I - Basics of Visual Storytelling",
+        "credit": 4
+    },
+    {
+        "code": "FMS-0010",
+        "title": "Film and Media Production I - Basics of Visual Storytelling",
+        "credit": 4
+    },
+    {
+        "code": "FMS-0014",
+        "title": "From Script to Screen",
+        "credit": 4
+    },
+    {
+        "code": "FMS-0017",
+        "title": "Sound in Filmmaking",
+        "credit": 4
+    },
+    {
+        "code": "FMS-0019",
+        "title": "Experimental Filmmaking: Concept to Practice",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0020",
+        "title": "Screenwriting I - First-Year",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0021",
+        "title": "Screenwriting II",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0023",
+        "title": "TV Writing: Pitch to Script",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0026",
+        "title": "Dance & the Hollywood Musical",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0027",
+        "title": "Dance on Camera",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0028",
+        "title": "Scene Design",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0029",
+        "title": "The Designer\u2019s Eye: A History of Style and Decor",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0034",
+        "title": "Creating Children\u2019s Media",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0035",
+        "title": "Art and Business of Crafting Media Campaigns",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0037",
+        "title": "Online Video: Algorithms, Creators & Social Impact",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0057",
+        "title": "Russian & East European Film",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0058",
+        "title": "Warrior Nations: Russia & U.S.",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0059",
+        "title": "World War II on Film",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0060",
+        "title": "Global Indigenous Film & Media",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0079",
+        "title": "German Film",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0082",
+        "title": "Music on Film; Film on Music",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0083",
+        "title": "Latinx Theatre and Film",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0084",
+        "title": "Jewish Experience On Film",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0094",
+        "title": "Special Topics - Law and Performance",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0095",
+        "title": "Creative Careers and Artistic Life Seminar",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0137",
+        "title": "Advanced Documentary Production",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0160",
+        "title": "Branding: Theory and Practice",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0165",
+        "title": "Television in the Age of Change",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0178",
+        "title": "War and Cultural Memory in Literature and Cinema of the Middle East",
+        "credit": 3
+    },
+    {
+        "code": "FMS-0180",
+        "title": "Psychoanalysis and Cinema",
+        "credit": 3
+    },
+    {
+        "code": "FR-0001",
+        "title": "Elementary French I",
+        "credit": 3
+    },
+    {
+        "code": "FR-0002",
+        "title": "Elementary French II",
+        "credit": 0
+    },
+    {
+        "code": "FR-0003",
+        "title": "Intermediate French I",
+        "credit": 3
+    },
+    {
+        "code": "FR-0004",
+        "title": "Intermediate French II",
+        "credit": 0
+    },
+    {
+        "code": "FR-0021",
+        "title": "Composition And Conversation I - Debates & Controversies",
+        "credit": 0
+    },
+    {
+        "code": "FR-0021",
+        "title": "Composition And Conversation I - Crimes et sentiments",
+        "credit": 0
+    },
+    {
+        "code": "FR-0021",
+        "title": "Composition And Conversation I - Diversit\u00e9s francophones",
+        "credit": 0
+    },
+    {
+        "code": "FR-0022",
+        "title": "Composition And Conversation II - Voyages et d\u00e9couvertes",
+        "credit": 0
+    },
+    {
+        "code": "FR-0022",
+        "title": "Composition And Conversation II - Cin\u00e9ma et soci\u00e9t\u00e9",
+        "credit": 0
+    },
+    {
+        "code": "FR-0022",
+        "title": "Composition And Conversation II - Politiques Econ & Soc",
+        "credit": 0
+    },
+    {
+        "code": "FR-0031",
+        "title": "Readings In French Literature I",
+        "credit": 3
+    },
+    {
+        "code": "FR-0032",
+        "title": "From Romanticism to the Twenty-First Century in French Literature",
+        "credit": 3
+    },
+    {
+        "code": "FR-0040",
+        "title": "The Grail Quest in Medieval French Literature",
+        "credit": 3
+    },
+    {
+        "code": "FR-0094",
+        "title": "Independent Study",
+        "credit": 3
+    },
+    {
+        "code": "FR-0122",
+        "title": "Advanced Language: French on the Small Screen",
+        "credit": 3
+    },
+    {
+        "code": "FR-0133",
+        "title": "French Women Filmmakers: Subverting the Male Gaze",
+        "credit": 3
+    },
+    {
+        "code": "FR-0146",
+        "title": "French for International Relations",
+        "credit": 3
+    },
+    {
+        "code": "FR-0149",
+        "title": "Truth and Lies in the French Epistolary Novel",
+        "credit": 3
+    },
+    {
+        "code": "FR-0168",
+        "title": "Baudelaire and his Readers",
+        "credit": 3
+    },
+    {
+        "code": "FR-0194",
+        "title": "Independent Study",
+        "credit": 3
+    },
+    {
+        "code": "GER-0002",
+        "title": "Elementary German II",
+        "credit": 4
+    },
+    {
+        "code": "GER-0004",
+        "title": "Intermediate German II",
+        "credit": 4
+    },
+    {
+        "code": "GER-0022",
+        "title": "Composition and Conversation II",
+        "credit": 4
+    },
+    {
+        "code": "GER-0044",
+        "title": "Shaping Identity: Social And Political Perspective",
+        "credit": 3
+    },
+    {
+        "code": "GER-0085",
+        "title": "German Film",
+        "credit": 3
+    },
+    {
+        "code": "GER-0092",
+        "title": "Special Topics - Masterpieces of German Literature",
+        "credit": 3
+    },
+    {
+        "code": "GER-0093",
+        "title": "Directed Study",
+        "credit": 2
+    },
+    {
+        "code": "GER-0094",
+        "title": "Directed Study",
+        "credit": 3
+    },
+    {
+        "code": "GER-0096",
+        "title": "Teaching Internship",
+        "credit": 2
+    },
+    {
+        "code": "GER-0182",
+        "title": "Imagining the Environment in German Literature",
+        "credit": 3
+    },
+    {
+        "code": "GER-0185",
+        "title": "German Film",
+        "credit": 4
+    },
+    {
+        "code": "GER-0193",
+        "title": "Advanced Directed Study",
+        "credit": 2
+    },
+    {
+        "code": "GER-0194",
+        "title": "Advanced Directed Study",
+        "credit": 3
+    },
+    {
+        "code": "GER-0196",
+        "title": "Teaching Internship",
+        "credit": 3
+    },
+    {
+        "code": "GER-0199",
+        "title": "Senior Honors Thesis B",
+        "credit": 8
+    },
+    {
+        "code": "GRA-0032",
+        "title": "Book Arts: Chapter 1",
+        "credit": 4
+    },
+    {
+        "code": "GRA-0112",
+        "title": "Creative Activism: Emerg Tech",
+        "credit": 4
+    },
+    {
+        "code": "GRA-0123",
+        "title": "Narrative in Sequential Art",
+        "credit": 4
+    },
+    {
+        "code": "GRA-0125",
+        "title": "Environmental Graphic Design",
+        "credit": 4
+    },
+    {
+        "code": "GRA-0126",
+        "title": "Design for Social Change",
+        "credit": 4
+    },
+    {
+        "code": "GRA-0132",
+        "title": "Type as Image",
+        "credit": 4
+    },
+    {
+        "code": "GRA-0135",
+        "title": "Graphic Novel: History & Craft",
+        "credit": 4
+    },
+    {
+        "code": "GRA-0137",
+        "title": "Web Art: Culture & Practice",
+        "credit": 4
+    },
+    {
+        "code": "GRA-0183",
+        "title": "Artists\u2019 Books Today",
+        "credit": 4
+    },
+    {
+        "code": "GRA-0191",
+        "title": "Special Topics - Web Docs: Interactive Stories",
+        "credit": 4
+    },
+    {
+        "code": "GRA-0191",
+        "title": "Special Topics - Vibrant Matter: Visualizing Curatorial Idea",
+        "credit": 4
+    },
+    {
+        "code": "GRK-0002",
+        "title": "Elementary Ancient Greek II",
+        "credit": 3
+    },
+    {
+        "code": "GRK-0102",
+        "title": "Greek Drama",
+        "credit": 3
+    },
+    {
+        "code": "GRK-0103",
+        "title": "Greek Historians - Writing Empire",
+        "credit": 3
+    },
+    {
+        "code": "GRK-0191",
+        "title": "Special Studies Or Seminar In Greek - Upper level Greek for MAs",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0008",
+        "title": "Introduction To Architecture",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0019",
+        "title": "Classical Archaeology",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0059",
+        "title": "Aesthetics",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0081",
+        "title": "Twentieth Century Mexican Art",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0092",
+        "title": "Special Topics - Global Renaissance",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0092",
+        "title": "Special Topics - Art of Empire:Assyria & Babylon",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0092",
+        "title": "Special Topics - Impressionisms 1860 to 1914",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0092",
+        "title": "Special Topics - Geospatial Humanities",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0092",
+        "title": "Special Topics - Intro to Modernisms",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0092",
+        "title": "Special Topics - Bodies and Technology in East Asia",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0096",
+        "title": "Design: Architectural",
+        "credit": 5
+    },
+    {
+        "code": "HAA-0098",
+        "title": "Integrative Project Seminar",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0103",
+        "title": "Aegean Archaeology",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0181",
+        "title": "Twentieth Century Mexican Art",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0182",
+        "title": "Independent Studies - European Avant Gardes",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0192",
+        "title": "Special Topics - Global Renaissance",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0192",
+        "title": "Special Topics - Impressionisms 1860 to 1914",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0192",
+        "title": "Special Topics - Surrogate Architectures",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0192",
+        "title": "Special Topics - Bodies and Technology in East Asia",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0198",
+        "title": "Undergraduate Seminar - Latinx Unsettling",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0198",
+        "title": "Undergraduate Seminar - Art & Archae. of Gender Antiqu",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0198",
+        "title": "Undergraduate Seminar - Museums and (De)coloniality",
+        "credit": null
+    },
+    {
+        "code": "HAA-0199",
+        "title": "Senior Honors Thesis B",
+        "credit": 8
+    },
+    {
+        "code": "HAA-0205",
+        "title": "Seminar in Ancient Art - Art & Archae. of Gender Antiqu",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0270",
+        "title": "Seminars In African Art - Museums and (De)coloniality\u201d",
+        "credit": 3
+    },
+    {
+        "code": "HAA-0280",
+        "title": "Seminar In Latin American Art - Latinx Unsettling",
+        "credit": 3
+    },
+    {
+        "code": "HEB-0002",
+        "title": "Elementary Hebrew",
+        "credit": 4
+    },
+    {
+        "code": "HEB-0004",
+        "title": "Intermediate Hebrew",
+        "credit": 4
+    },
+    {
+        "code": "HEB-0022",
+        "title": "Conversation/composition",
+        "credit": 4
+    },
+    {
+        "code": "HEB-0062",
+        "title": "Gender in Rabbinic Literature",
+        "credit": 3
+    },
+    {
+        "code": "HEB-0068",
+        "title": "Arab/Jewish Literature and Film",
+        "credit": 3
+    },
+    {
+        "code": "HEB-0122",
+        "title": "Composition And Conversation",
+        "credit": 3
+    },
+    {
+        "code": "HEB-0136",
+        "title": "The Story of Moses and King David",
+        "credit": 3
+    },
+    {
+        "code": "HEB-0170",
+        "title": "Political Liberalism and Religion",
+        "credit": 3
+    },
+    {
+        "code": "HEB-0174",
+        "title": "Judaism and Modernity",
+        "credit": 3
+    },
+    {
+        "code": "HEB-0179",
+        "title": "Introduction to the Zohar",
+        "credit": 3
+    },
+    {
+        "code": "HEB-0188",
+        "title": "Jewish Experience On Film",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0012",
+        "title": "Global History of Science, Technology, and Medicine",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0018",
+        "title": "Colonial Latin America",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0024",
+        "title": "Revolutionary America, 1763-1815",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0032",
+        "title": "Women in America since the 1950's",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0037",
+        "title": "Civil War, Race, and Reconstruction",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0041",
+        "title": "Modern Chinese History",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0051",
+        "title": "History Of Ancient Rome",
+        "credit": 0
+    },
+    {
+        "code": "HIST-0054",
+        "title": "Europe Since 1815",
+        "credit": 0
+    },
+    {
+        "code": "HIST-0065",
+        "title": "Great Britain And The British Empire",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0071",
+        "title": "Middle East and North Africa Since WWI",
+        "credit": 0
+    },
+    {
+        "code": "HIST-0082",
+        "title": "Special Topics, Latin America - Hist of Human Rights in Latin",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0089",
+        "title": "Special Topics - The True Believer",
+        "credit": 1
+    },
+    {
+        "code": "HIST-0089",
+        "title": "Special Topics - Life & Times of Thornton W. Burgess",
+        "credit": 1
+    },
+    {
+        "code": "HIST-0090",
+        "title": "Foundation Seminars, World/Transregional - Questions of Nationhood",
+        "credit": 4
+    },
+    {
+        "code": "HIST-0093",
+        "title": "Foundation Seminars, North America - Gender and Containment in Post WW II America",
+        "credit": 4
+    },
+    {
+        "code": "HIST-0096",
+        "title": "Foundation Seminars, Europe - Imperial Britain",
+        "credit": 4
+    },
+    {
+        "code": "HIST-0123",
+        "title": "Industrial America And Urban Society: The Progressive Era To The Great Depression - Progress Era to the Great Depression",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0137",
+        "title": "Material Culture in China",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0157",
+        "title": "Empresses, Saints, & Scholars: The Women Of Byzantium - Empresses Saints & Scholars:",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0158",
+        "title": "The Balkans since 1453",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0165",
+        "title": "Modern European Intellectual History",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0170",
+        "title": "Advanced Special Topics World/Transregional - Race Before Race in Anct Med",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0170",
+        "title": "Advanced Special Topics World/Transregional - Classical Historians: Writing Empire",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0179",
+        "title": "Introduction to Geospatial Humanities",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0180",
+        "title": "Independent Study, World/transregional - History of Armenia",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0187",
+        "title": "Independent Study, Middle East/central Asia",
+        "credit": 3
+    },
+    {
+        "code": "HIST-0190",
+        "title": "Research Seminar, World & Transregional History - Travel Writing and History",
+        "credit": 4
+    },
+    {
+        "code": "HIST-0190",
+        "title": "Research Seminar, World & Transregional History - Intl. Hist of the 20th Century",
+        "credit": 4
+    },
+    {
+        "code": "HIST-0193",
+        "title": "Research Seminar, North America - Slavery&Tufts: Archival Rsrch",
+        "credit": 4
+    },
+    {
+        "code": "HIST-0199",
+        "title": "Senior Thesis B",
+        "credit": 8
+    },
+    {
+        "code": "ILCS-0061",
+        "title": "Translating the World",
+        "credit": 3
+    },
+    {
+        "code": "ILCS-0066",
+        "title": "A Page in Modern East Asian Literature",
+        "credit": 3
+    },
+    {
+        "code": "ILCS-0068",
+        "title": "Arabian Nights",
+        "credit": 3
+    },
+    {
+        "code": "ILCS-0071",
+        "title": "Posthuman East Asia",
+        "credit": 3
+    },
+    {
+        "code": "ILCS-0076",
+        "title": "Border Crossings in Literature and Film",
+        "credit": 3
+    },
+    {
+        "code": "ILCS-0081",
+        "title": "Russian & East European Film",
+        "credit": 3
+    },
+    {
+        "code": "ILCS-0085",
+        "title": "World War II on Film",
+        "credit": 3
+    },
+    {
+        "code": "ILCS-0163",
+        "title": "War and Cultural Memory in Literature and Cinema of the Middle East",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0027",
+        "title": "Classical Archaeology",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0028",
+        "title": "Ancient China, Korea, & Japan",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0051",
+        "title": "Art of the Moving Image",
+        "credit": 0
+    },
+    {
+        "code": "ILVS-0052",
+        "title": "Global History of Cinema",
+        "credit": 0
+    },
+    {
+        "code": "ILVS-0053",
+        "title": "Global Indigenous Film & Media",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0058",
+        "title": "A Page in Modern East Asian Literature",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0062",
+        "title": "Translating the World",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0063",
+        "title": "Arabian Nights",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0066",
+        "title": "Border Crossings in Literature and Film",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0068",
+        "title": "Arab/Jewish Literature and Film",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0072",
+        "title": "Television in the Age of Change",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0076",
+        "title": "Posthuman East Asia",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0086",
+        "title": "Russian & East European Film",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0088",
+        "title": "Warrior Nations: Russia & U.S.",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0092",
+        "title": "Special Topics - David Foster Wallace & Philos.",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0092",
+        "title": "Special Topics - Modern, Contemporary Asian Art",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0118",
+        "title": "Haruki Murakami and World Literature",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0135",
+        "title": "Graphic Novel: History & Craft",
+        "credit": 4
+    },
+    {
+        "code": "ILVS-0142",
+        "title": "Jewish Experience On Film",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0157",
+        "title": "War and Cultural Memory in Literature and Cinema of the Middle East",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0185",
+        "title": "China and the West",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0192",
+        "title": "Special Topics - Museums and (De)Coloniality",
+        "credit": 3
+    },
+    {
+        "code": "ILVS-0192",
+        "title": "Special Topics - Sounds of War and Memory",
+        "credit": 3
+    },
+    {
+        "code": "ITAL-0002",
+        "title": "Elementary Italian II",
+        "credit": 0
+    },
+    {
+        "code": "ITAL-0004",
+        "title": "Intermediate Italian II",
+        "credit": 0
+    },
+    {
+        "code": "ITAL-0010",
+        "title": "Beginner Conversational Italian",
+        "credit": 3
+    },
+    {
+        "code": "ITAL-0022",
+        "title": "Composition And Conversation II",
+        "credit": 0
+    },
+    {
+        "code": "ITAL-0052",
+        "title": "Dante's Purgatorio And Paradiso",
+        "credit": 3
+    },
+    {
+        "code": "ITAL-0057",
+        "title": "The Great Seduction: Italy\u2019s Beauty, Genius, and Madness",
+        "credit": 3
+    },
+    {
+        "code": "ITAL-0094",
+        "title": "Independent Study",
+        "credit": 3
+    },
+    {
+        "code": "ITAL-0192",
+        "title": "Special Topics - Mapping Otherness",
+        "credit": 3
+    },
+    {
+        "code": "ITAL-0194",
+        "title": "Independent Study",
+        "credit": 3
+    },
+    {
+        "code": "JPN-0002",
+        "title": "Elementary Japanese II",
+        "credit": 4
+    },
+    {
+        "code": "JPN-0004",
+        "title": "Intermediate Japanese II",
+        "credit": 4
+    },
+    {
+        "code": "JPN-0022",
+        "title": "Reading & Conversation II",
+        "credit": 4
+    },
+    {
+        "code": "JPN-0061",
+        "title": "Introduction To Japanese Culture",
+        "credit": 3
+    },
+    {
+        "code": "JPN-0062",
+        "title": "Modern Japanese Literature",
+        "credit": 3
+    },
+    {
+        "code": "JPN-0092",
+        "title": "Special Topics - Japanese Horror Lit & Film",
+        "credit": 3
+    },
+    {
+        "code": "JPN-0094",
+        "title": "Directed Study",
+        "credit": 3
+    },
+    {
+        "code": "JPN-0118",
+        "title": "Haruki Murakami and World Literature",
+        "credit": 3
+    },
+    {
+        "code": "JPN-0122",
+        "title": "Advanced Japanese II",
+        "credit": 4
+    },
+    {
+        "code": "JPN-0193",
+        "title": "Advanced Directed Study",
+        "credit": 2
+    },
+    {
+        "code": "JPN-0194",
+        "title": "Advanced Directed Study",
+        "credit": 3
+    },
+    {
+        "code": "JPN-0199",
+        "title": "Honors Thesis B",
+        "credit": 8
+    },
+    {
+        "code": "JS-0068",
+        "title": "Arab/Jewish Literature and Film",
+        "credit": 3
+    },
+    {
+        "code": "JS-0079",
+        "title": "Jewish Voices in Russian Culture",
+        "credit": 3
+    },
+    {
+        "code": "JS-0088",
+        "title": "Gender in Rabbinic Literature",
+        "credit": 3
+    },
+    {
+        "code": "JS-0093",
+        "title": "Directed Study",
+        "credit": 2
+    },
+    {
+        "code": "JS-0094",
+        "title": "Directed Study",
+        "credit": 3
+    },
+    {
+        "code": "JS-0099",
+        "title": "Judaic Studies Internship",
+        "credit": 3
+    },
+    {
+        "code": "JS-0113",
+        "title": "Jewish American Theatre",
+        "credit": 3
+    },
+    {
+        "code": "JS-0114",
+        "title": "Political Liberalism and Religion",
+        "credit": 3
+    },
+    {
+        "code": "JS-0136",
+        "title": "The Story of Moses and King David",
+        "credit": 3
+    },
+    {
+        "code": "JS-0142",
+        "title": "Jewish Experience On Film",
+        "credit": 3
+    },
+    {
+        "code": "JS-0180",
+        "title": "Introduction to the Zohar",
+        "credit": 3
+    },
+    {
+        "code": "JS-0181",
+        "title": "Judaism and Modernity",
+        "credit": 3
+    },
+    {
+        "code": "JS-0192",
+        "title": "Special Topics - Judaic Studies - Modern Israel: Politics & Soc",
+        "credit": 3
+    },
+    {
+        "code": "JS-0193",
+        "title": "Advanced Directed Study",
+        "credit": 2
+    },
+    {
+        "code": "JS-0194",
+        "title": "Advanced Directed Study",
+        "credit": 3
+    },
+    {
+        "code": "JS-0199",
+        "title": "Senior Honors Thesis B",
+        "credit": 8
+    },
+    {
+        "code": "LAS-0021",
+        "title": "Comp & Conversation I",
+        "credit": 0
+    },
+    {
+        "code": "LAS-0091",
+        "title": "Latin American Studies Special Topics - Latin Social Dance",
+        "credit": 2
+    },
+    {
+        "code": "LAT-0001",
+        "title": "Elementary Latin I",
+        "credit": 3
+    },
+    {
+        "code": "LAT-0002",
+        "title": "Elementary Latin II",
+        "credit": 0
+    },
+    {
+        "code": "LAT-0003",
+        "title": "Intermediate Latin",
+        "credit": 3
+    },
+    {
+        "code": "LAT-0022",
+        "title": "Latin Poetry - Catullus",
+        "credit": 3
+    },
+    {
+        "code": "LAT-0104",
+        "title": "Latin Philosophy And Oratory",
+        "credit": 3
+    },
+    {
+        "code": "LAT-0181",
+        "title": "Latin Seminars - Latin Graffiti",
+        "credit": 3
+    },
+    {
+        "code": "LAT-0191",
+        "title": "Special Studies Or Seminar In Latin",
+        "credit": 3
+    },
+    {
+        "code": "LAT-0191",
+        "title": "Special Studies Or Seminar In Latin - Sallust, Livy, Tacitus",
+        "credit": 3
+    },
+    {
+        "code": "LING-0003",
+        "title": "Language And Mind",
+        "credit": 4
+    },
+    {
+        "code": "LING-0096",
+        "title": "Romance Linguistics",
+        "credit": 3
+    },
+    {
+        "code": "LING-0133",
+        "title": "Philosophy Of Language",
+        "credit": 3
+    },
+    {
+        "code": "LING-0137",
+        "title": "Language & Culture",
+        "credit": 3
+    },
+    {
+        "code": "LST-0023",
+        "title": "Spanish For Heritage Learners",
+        "credit": 3
+    },
+    {
+        "code": "LST-0051",
+        "title": "Latinx Theatre and Film",
+        "credit": 3
+    },
+    {
+        "code": "LST-0062",
+        "title": "Childhood Across Culture",
+        "credit": 3
+    },
+    {
+        "code": "MDIA-0061",
+        "title": "Intro to Sound: Sound Arts",
+        "credit": 4
+    },
+    {
+        "code": "MDIA-0062",
+        "title": "Intro to Sound:ElectronicMusic",
+        "credit": 4
+    },
+    {
+        "code": "MDIA-0106",
+        "title": "Intro to Film & Video",
+        "credit": 4
+    },
+    {
+        "code": "MDIA-0111",
+        "title": "Video II",
+        "credit": 4
+    },
+    {
+        "code": "MDIA-0140",
+        "title": "Stop Motion Animation",
+        "credit": 4
+    },
+    {
+        "code": "MDIA-0141",
+        "title": "Animation 1",
+        "credit": 4
+    },
+    {
+        "code": "MDIA-0148",
+        "title": "Trick Films & Special Effects",
+        "credit": 4
+    },
+    {
+        "code": "MDIA-0163",
+        "title": "Sound & Moving Image",
+        "credit": 4
+    },
+    {
+        "code": "MDIA-0191",
+        "title": "Special Topics - Character Design",
+        "credit": 4
+    },
+    {
+        "code": "MDIA-0191",
+        "title": "Special Topics - Puppets, Animation, Performance",
+        "credit": 4
+    },
+    {
+        "code": "MTL-0113",
+        "title": "Introduction to Metals",
+        "credit": 4
+    },
+    {
+        "code": "MTL-0117",
+        "title": "The Multiple",
+        "credit": 4
+    },
+    {
+        "code": "MTL-0183",
+        "title": "Color as Content",
+        "credit": 4
+    },
+    {
+        "code": "MTL-0189",
+        "title": "Advanced Jewelry Projects",
+        "credit": 4
+    },
+    {
+        "code": "MUS-0005",
+        "title": "Introduction to Music Theory and Musicianship",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0009",
+        "title": "Private Lessons - Beginner Level",
+        "credit": 1
+    },
+    {
+        "code": "MUS-0009",
+        "title": "Private Lessons - Early Intermediate Level",
+        "credit": 1
+    },
+    {
+        "code": "MUS-0015",
+        "title": "Introduction to Theory and Analysis Of Popular Music",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0016",
+        "title": "Writing About Music",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0028",
+        "title": "Queer Pop",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0038",
+        "title": "Music in Global Perspectives I",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0040",
+        "title": "African Musical Arts",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0042",
+        "title": "Soundworlds of North Africa",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0056",
+        "title": "Music on Film; Film on Music",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0057",
+        "title": "Sound and the Sonic Imagination",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0061",
+        "title": "Computer Tools For Musicians",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0067",
+        "title": "Private Lessons - Early Advanced Level",
+        "credit": 1
+    },
+    {
+        "code": "MUS-0067",
+        "title": "Private Lessons - Advanced Level",
+        "credit": 1
+    },
+    {
+        "code": "MUS-0068",
+        "title": "Senior Recital",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0069",
+        "title": "Gospel Choir",
+        "credit": 0
+    },
+    {
+        "code": "MUS-0070",
+        "title": "Jazz Orchestra",
+        "credit": 2
+    },
+    {
+        "code": "MUS-0071",
+        "title": "Jazz Improvisation Ensemble",
+        "credit": 2
+    },
+    {
+        "code": "MUS-0074",
+        "title": "Wind Ensemble",
+        "credit": 2
+    },
+    {
+        "code": "MUS-0078",
+        "title": "African Music and Dance Ensemble",
+        "credit": 2
+    },
+    {
+        "code": "MUS-0079",
+        "title": "Arabic Music Ensemble",
+        "credit": 2
+    },
+    {
+        "code": "MUS-0080",
+        "title": "Javanese Gamelan Ensemble",
+        "credit": 2
+    },
+    {
+        "code": "MUS-0081",
+        "title": "Concert Choir",
+        "credit": 2
+    },
+    {
+        "code": "MUS-0082",
+        "title": "Chamber Singers",
+        "credit": 2
+    },
+    {
+        "code": "MUS-0083",
+        "title": "Opera Ensemble",
+        "credit": 2
+    },
+    {
+        "code": "MUS-0084",
+        "title": "Symphony Orchestra",
+        "credit": 2
+    },
+    {
+        "code": "MUS-0085",
+        "title": "Chamber Orchestra",
+        "credit": 2
+    },
+    {
+        "code": "MUS-0086",
+        "title": "Chamber Music Ensembles",
+        "credit": 2
+    },
+    {
+        "code": "MUS-0087",
+        "title": "Early Music Ensemble",
+        "credit": 2
+    },
+    {
+        "code": "MUS-0088",
+        "title": "Flute Ensemble",
+        "credit": 2
+    },
+    {
+        "code": "MUS-0089",
+        "title": "New Music Ensemble",
+        "credit": 2
+    },
+    {
+        "code": "MUS-0090",
+        "title": "Electronic Music Ensemble",
+        "credit": 2
+    },
+    {
+        "code": "MUS-0095",
+        "title": "Psychology of Music",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0097",
+        "title": "Special Topics - Independent Study",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0098",
+        "title": "Special Studies: Tutorial",
+        "credit": 1
+    },
+    {
+        "code": "MUS-0098",
+        "title": "Special Studies: Tutorial - Composition Concert Portfolio",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0098",
+        "title": "Special Studies: Tutorial - Tufts Composers Documentation",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0098",
+        "title": "Special Studies: Tutorial - Composition Recital",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0101",
+        "title": "Jazz Theory",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0112",
+        "title": "Sound & Structure II: Color, Form, and Meaning",
+        "credit": 0
+    },
+    {
+        "code": "MUS-0114",
+        "title": "Analog and Digital Music Notation",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0115",
+        "title": "Orchestration",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0118",
+        "title": "Contemporary Composition",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0119",
+        "title": "Composition Practicum",
+        "credit": null
+    },
+    {
+        "code": "MUS-0120",
+        "title": "Conducting",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0145",
+        "title": "Studies in Jazz - Jazz in Film: North America, Europe, and Asia",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0150",
+        "title": "Listening & History",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0152",
+        "title": "Social Justice, Advocacy, and Music",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0165",
+        "title": "Studies In 20th- and 21st-Century Music - Schoe, the Creat Proc + ideas",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0184",
+        "title": "Fieldwork Methods in Music, Sound, and Culture",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0197",
+        "title": "Special Topics - Sounds of War & Memory",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0197",
+        "title": "Special Topics - Performance & Power in Southeast",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0198",
+        "title": "Special Studies: Tutorial - Independent Music Study",
+        "credit": 3
+    },
+    {
+        "code": "MUS-0199",
+        "title": "Senior Honors Thesis B",
+        "credit": 8
+    },
+    {
+        "code": "OTS-0110",
+        "title": "Disability & Public Health Policy",
+        "credit": 4
+    },
+    {
+        "code": "PAI-0003",
+        "title": "Introduction to Painting",
+        "credit": 4
+    },
+    {
+        "code": "PAI-0006",
+        "title": "Introduction to Figure Painting",
+        "credit": 4
+    },
+    {
+        "code": "PAI-0010",
+        "title": "Intro to Water, Color & Paper",
+        "credit": 4
+    },
+    {
+        "code": "PAI-0050",
+        "title": "Intermediate Projects",
+        "credit": 4
+    },
+    {
+        "code": "PAI-0075",
+        "title": "Intermediate Studio Seminar",
+        "credit": 4
+    },
+    {
+        "code": "PAI-0098",
+        "title": "Bilder",
+        "credit": 4
+    },
+    {
+        "code": "PAI-0135",
+        "title": "Advanced Painting Seminar/Studio",
+        "credit": 4
+    },
+    {
+        "code": "PAI-0140",
+        "title": "Color and Critical Inquiry",
+        "credit": 4
+    },
+    {
+        "code": "PAI-0141",
+        "title": "Intermediate Figure Painting",
+        "credit": 4
+    },
+    {
+        "code": "PAI-0172",
+        "title": "Intermediate Portrait Painting: Subject and Subjectivity",
+        "credit": 4
+    },
+    {
+        "code": "PAIM-0053",
+        "title": "Introduction To Painting Continued",
+        "credit": 4
+    },
+    {
+        "code": "PAIM-0054",
+        "title": "Painting Foundation",
+        "credit": 4
+    },
+    {
+        "code": "PAIM-0055",
+        "title": "Disrupted Realism",
+        "credit": 4
+    },
+    {
+        "code": "PAIM-0056",
+        "title": "Painting from Photographs",
+        "credit": 4
+    },
+    {
+        "code": "PAIM-0075",
+        "title": "Painting a Week",
+        "credit": 4
+    },
+    {
+        "code": "PHIL-0002",
+        "title": "Introduction To Philosophy - The Great Ideals",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0002",
+        "title": "Introduction To Philosophy - The Great Ideals",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0002",
+        "title": "Introduction To Philosophy - Introduction to Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0002",
+        "title": "Introduction To Philosophy - Introduction to Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0002",
+        "title": "Introduction To Philosophy - Introduction to Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0002",
+        "title": "Introduction To Philosophy - Introduction to Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0002",
+        "title": "Introduction To Philosophy - Introduction to Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0002",
+        "title": "Introduction To Philosophy - Introduction to Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0002",
+        "title": "Introduction To Philosophy - Introduction to Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0002",
+        "title": "Introduction To Philosophy - Introduction to Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0002",
+        "title": "Introduction To Philosophy - Introduction to Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0002",
+        "title": "Introduction To Philosophy - Introduction to Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0002",
+        "title": "Introduction To Philosophy - Introduction to Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0002",
+        "title": "Introduction To Philosophy - Introduction to Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0003",
+        "title": "Language And Mind",
+        "credit": 4
+    },
+    {
+        "code": "PHIL-0016",
+        "title": "Philosophy Of Religion",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0024",
+        "title": "Introduction To Ethics",
+        "credit": 0
+    },
+    {
+        "code": "PHIL-0035",
+        "title": "Reality and Subjectivity",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0042",
+        "title": "Western Political Thought II",
+        "credit": 0
+    },
+    {
+        "code": "PHIL-0043",
+        "title": "Justice, Equality, And Liberty - Justice, Equality, And Liberty",
+        "credit": 4
+    },
+    {
+        "code": "PHIL-0045",
+        "title": "War and Terrorism",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0052",
+        "title": "Aesthetics",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0057",
+        "title": "Philosophy of Technology",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0092",
+        "title": "Special Topics - Pre-college Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0092",
+        "title": "Special Topics - Philosophy as a Way of Life",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0092",
+        "title": "Special Topics - NIETZSCHE",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0092",
+        "title": "Special Topics - Classical Arabic Texts",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0092",
+        "title": "Special Topics - Political Liberalism",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0094",
+        "title": "Honors Thesis B",
+        "credit": 8
+    },
+    {
+        "code": "PHIL-0117",
+        "title": "Philosophy Of Mind",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0118",
+        "title": "Philosophy Of Biology",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0120",
+        "title": "Metaphysics",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0124",
+        "title": "Bioethics",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0133",
+        "title": "Philosophy Of Language",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0141",
+        "title": "Global Justice",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0152",
+        "title": "History Of Modern Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0154",
+        "title": "Islamic Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0155",
+        "title": "Twentieth-century American And British Philosophy - 20th C Analytic Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0192",
+        "title": "Seminars - Aristotle's Metaphysics",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0192",
+        "title": "Seminars - Philosophy of Mathematics",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0192",
+        "title": "Seminars - Phil Foundations of Cog Sci",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0192",
+        "title": "Seminars - Moral Epistemology",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0192",
+        "title": "Seminars - David Foster Wallace & Philos.",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0192",
+        "title": "Seminars - Philosophy and Black Holes",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0194",
+        "title": "Special Topics - Danielewski\u2019s House of Leaves",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0194",
+        "title": "Special Topics - Nietschze",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0196",
+        "title": "Special Topics - Practicing Philosophy",
+        "credit": 3
+    },
+    {
+        "code": "PHIL-0196",
+        "title": "Special Topics - 20th Century Pol. Philosophy",
+        "credit": 4
+    },
+    {
+        "code": "PHT-0107",
+        "title": "Mother",
+        "credit": 4
+    },
+    {
+        "code": "PHT-0111",
+        "title": "Introduction to Digital Photography",
+        "credit": 4
+    },
+    {
+        "code": "PHT-0113",
+        "title": "Black, White, Grey: Introduction to Analog Photography in the Binary Age",
+        "credit": 4
+    },
+    {
+        "code": "PHT-0114",
+        "title": "Black, White, Gray: Adv. Photo",
+        "credit": 4
+    },
+    {
+        "code": "PHT-0118",
+        "title": "Intermediate Photography",
+        "credit": 4
+    },
+    {
+        "code": "PHT-0121",
+        "title": "Photography Projects",
+        "credit": 4
+    },
+    {
+        "code": "PHT-0127",
+        "title": "Historic Photo-printing Methods",
+        "credit": 4
+    },
+    {
+        "code": "PHT-0184",
+        "title": "Digital Printing and Color Theory",
+        "credit": 4
+    },
+    {
+        "code": "PHT-0191",
+        "title": "Special Topics - Documentary & Narrative Practice",
+        "credit": 4
+    },
+    {
+        "code": "PHTM-0063",
+        "title": "Photo 1: Film & Darkroom",
+        "credit": 4
+    },
+    {
+        "code": "PHTM-0065",
+        "title": "Photography And Computer",
+        "credit": 4
+    },
+    {
+        "code": "POR-0003",
+        "title": "Intermediate Portuguese I",
+        "credit": 0
+    },
+    {
+        "code": "POR-0011",
+        "title": "Elementary Portuguese I for Romance Lang. Learners",
+        "credit": 0
+    },
+    {
+        "code": "POR-0012",
+        "title": "Elementary Portuguese II for Romance Lang. Learners",
+        "credit": 0
+    },
+    {
+        "code": "POR-0021",
+        "title": "Composition And Conversation I",
+        "credit": 0
+    },
+    {
+        "code": "POR-0127",
+        "title": "Medical Interpretation in Portuguese",
+        "credit": 3
+    },
+    {
+        "code": "POR-0193",
+        "title": "Independent Study",
+        "credit": 3
+    },
+    {
+        "code": "PRT-0102",
+        "title": "Papermaking",
+        "credit": 4
+    },
+    {
+        "code": "PRT-0113",
+        "title": "Replicas and Reproductions",
+        "credit": 4
+    },
+    {
+        "code": "PRT-0120",
+        "title": "Publishing Now",
+        "credit": 4
+    },
+    {
+        "code": "PRT-0137",
+        "title": "Multiples, Rituals, Actions",
+        "credit": 4
+    },
+    {
+        "code": "PRT-0138",
+        "title": "Screenprinting A-Z",
+        "credit": 4
+    },
+    {
+        "code": "PRT-0139",
+        "title": "Progressive Proof: Color",
+        "credit": 4
+    },
+    {
+        "code": "PRT-0144",
+        "title": "Riso Studio",
+        "credit": 4
+    },
+    {
+        "code": "PRT-0164",
+        "title": "Int/Adv Papermaking",
+        "credit": 4
+    },
+    {
+        "code": "PRT-0170",
+        "title": "Etching and Intaglio",
+        "credit": 4
+    },
+    {
+        "code": "PRT-0174",
+        "title": "Relief Print",
+        "credit": 4
+    },
+    {
+        "code": "PRT-0183",
+        "title": "Lithography",
+        "credit": 4
+    },
+    {
+        "code": "PRT-0184",
+        "title": "Drawing/Prints: Prints/Drawing",
+        "credit": 4
+    },
+    {
+        "code": "PS-0008",
+        "title": "Workshop in Political Science - Intellectual Roots of Modern World",
+        "credit": 1
+    },
+    {
+        "code": "PS-0008",
+        "title": "Workshop in Political Science - Reading Group: Conservative Thought and Policy",
+        "credit": 1
+    },
+    {
+        "code": "PS-0008",
+        "title": "Workshop in Political Science - Public Opinion Lab",
+        "credit": 1
+    },
+    {
+        "code": "PS-0021",
+        "title": "Introduction To Comparative Politics",
+        "credit": 0
+    },
+    {
+        "code": "PS-0042",
+        "title": "Western Political Thought II",
+        "credit": 0
+    },
+    {
+        "code": "PS-0043",
+        "title": "Justice , Equality, And Liberty",
+        "credit": 4
+    },
+    {
+        "code": "PS-0061",
+        "title": "Introduction To International Relations",
+        "credit": 0
+    },
+    {
+        "code": "PS-0099",
+        "title": "Fieldwork In Politics",
+        "credit": 3
+    },
+    {
+        "code": "PS-0101",
+        "title": "The Presidency And The Executive Branch",
+        "credit": 3
+    },
+    {
+        "code": "PS-0109",
+        "title": "Seminar: The Politics of Ethnicity and American Identity",
+        "credit": 4
+    },
+    {
+        "code": "PS-0115",
+        "title": "Information, Technology, and Political Power",
+        "credit": 3
+    },
+    {
+        "code": "PS-0118",
+        "title": "Topics in American Politics - The American Congress",
+        "credit": 3
+    },
+    {
+        "code": "PS-0118",
+        "title": "Topics in American Politics - Decoding State Gov. and Pol.",
+        "credit": 3
+    },
+    {
+        "code": "PS-0118",
+        "title": "Topics in American Politics - Law and Performance",
+        "credit": 3
+    },
+    {
+        "code": "PS-0118",
+        "title": "Topics in American Politics - Law and Performance",
+        "credit": 3
+    },
+    {
+        "code": "PS-0138",
+        "title": "Topics In Comparative Politics - Mkng States: Thry & Prac",
+        "credit": 3
+    },
+    {
+        "code": "PS-0138",
+        "title": "Topics In Comparative Politics - Polit Viol State & Soc",
+        "credit": 3
+    },
+    {
+        "code": "PS-0138",
+        "title": "Topics In Comparative Politics - Modern Israel: Politics & Society",
+        "credit": 3
+    },
+    {
+        "code": "PS-0138",
+        "title": "Topics In Comparative Politics - Social Mobilization in Israel",
+        "credit": 3
+    },
+    {
+        "code": "PS-0139",
+        "title": "Seminar In Comparative Politics - States, Nations & Citizenship",
+        "credit": 4
+    },
+    {
+        "code": "PS-0139",
+        "title": "Seminar In Comparative Politics - The Rad Right in EUR and U.S.",
+        "credit": 4
+    },
+    {
+        "code": "PS-0148",
+        "title": "Seminar: Political Thought of Montesquieu",
+        "credit": 4
+    },
+    {
+        "code": "PS-0158",
+        "title": "Topics In Political Thought - Ethics and Poli of Immigration",
+        "credit": 3
+    },
+    {
+        "code": "PS-0158",
+        "title": "Topics In Political Thought - Origins of Capital. & Critics",
+        "credit": 3
+    },
+    {
+        "code": "PS-0158",
+        "title": "Topics In Political Thought - Pol. Liberalism & Religion",
+        "credit": 3
+    },
+    {
+        "code": "PS-0159",
+        "title": "Seminar In Political Thought - 20th Century Pol. Philosophy",
+        "credit": 4
+    },
+    {
+        "code": "PS-0175",
+        "title": "Politics Of The World Economy",
+        "credit": 3
+    },
+    {
+        "code": "PS-0188",
+        "title": "Topics In International Relations - Arab-Israeli Conflict",
+        "credit": 3
+    },
+    {
+        "code": "PS-0188",
+        "title": "Topics In International Relations - Chinese Foreign Policy",
+        "credit": 3
+    },
+    {
+        "code": "PS-0189",
+        "title": "Seminar In International Relations - U.S.-China Relations",
+        "credit": 4
+    },
+    {
+        "code": "PS-0191",
+        "title": "Issues In American Public Policy",
+        "credit": 3
+    },
+    {
+        "code": "PS-0194",
+        "title": "Environmental PolicyLinking US and Global Politics - U.S. Challenges and Solutions",
+        "credit": null
+    },
+    {
+        "code": "PS-0195",
+        "title": "Seminar on US Elections",
+        "credit": 4
+    },
+    {
+        "code": "PS-0196",
+        "title": "Independent Study",
+        "credit": 2
+    },
+    {
+        "code": "PS-0196",
+        "title": "Independent Study - International Security",
+        "credit": 1
+    },
+    {
+        "code": "PS-0196",
+        "title": "Independent Study - Rousseau and Religion",
+        "credit": 2
+    },
+    {
+        "code": "PS-0199",
+        "title": "Senior Honors Thesis",
+        "credit": 4
+    },
+    {
+        "code": "PSY-0001",
+        "title": "Introduction To Psychology",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0009",
+        "title": "Introduction To Cognitive & Brain Sciences",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0011",
+        "title": "Developmental Psychology",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0012",
+        "title": "Psychopathology",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0013",
+        "title": "Social Psychology",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0022",
+        "title": "Emotion",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0028",
+        "title": "Cognitive Psychology",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0051",
+        "title": "Black Psychology",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0053",
+        "title": "Engineering Psychology",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0071",
+        "title": "Psychological Evaluation and Treatment",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0074",
+        "title": "Project Study In Human Systems",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0080",
+        "title": "Psychology of Music",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0092",
+        "title": "Research In Psychology",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0098",
+        "title": "Readings In Psychology",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0099",
+        "title": "Internship",
+        "credit": 1
+    },
+    {
+        "code": "PSY-0106",
+        "title": "Seminar: Clinical Psychology",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0115",
+        "title": "Social Identity, Stigma and Coping",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0124",
+        "title": "Cognition: Games People Play",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0126",
+        "title": "Origins Of Cognition",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0136",
+        "title": "Stereotypes, Prejudice, Discrimination",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0138",
+        "title": "Psychology of Anti-Black Racism in U.S. Health",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0182",
+        "title": "Senior Capstone in Clinical Psychology B",
+        "credit": 10
+    },
+    {
+        "code": "PSY-0192",
+        "title": "Undergraduate Independent Research",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0196",
+        "title": "Seminar In Psychology - Moral Development",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0196",
+        "title": "Seminar In Psychology - Memory and Misinformation",
+        "credit": 3
+    },
+    {
+        "code": "PSY-0199",
+        "title": "Senior Honors Thesis A",
+        "credit": 0
+    },
+    {
+        "code": "PSY-0199",
+        "title": "Senior Honors Thesis B",
+        "credit": 8
+    },
+    {
+        "code": "RCD-0094",
+        "title": "Special Topics - Race Before Race in Anct Med",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0094",
+        "title": "Special Topics - Global Indigenous Film & Media",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0094",
+        "title": "Special Topics - Arabian Nights",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0094",
+        "title": "Special Topics - Sociology of Latinxs",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0094",
+        "title": "Special Topics - Contem Multi-Ethnic Lit",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0094",
+        "title": "Special Topics - South Asian Diasporic Literature",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0094",
+        "title": "Special Topics - Race Ethnicity Gender AM Stg",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0150",
+        "title": "Methods in Studies of Race, Colonialism, and Diaspora",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0179",
+        "title": "Special Topics Research Seminar - Historiography and Literature",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0179",
+        "title": "Special Topics Research Seminar - Asian American Mobilities",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0179",
+        "title": "Special Topics Research Seminar - Beyond the Human",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0179",
+        "title": "Special Topics Research Seminar - African Amer & Asian Amer Lit",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0179",
+        "title": "Special Topics Research Seminar - Slavery&Tufts: Archival Rsrch",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0179",
+        "title": "Special Topics Research Seminar - Latinx Unsettling",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0194",
+        "title": "Special Topics - War Memory Lit/Film ME",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0194",
+        "title": "Special Topics - 20th Century Black Women's Writing",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0194",
+        "title": "Special Topics - Race and Disability",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0194",
+        "title": "Special Topics - Politics/Media/Immigration",
+        "credit": 3
+    },
+    {
+        "code": "RCD-0194",
+        "title": "Special Topics - Performance and Power SE Asia",
+        "credit": 3
+    },
+    {
+        "code": "REL-0012",
+        "title": "Introduction To Christianity",
+        "credit": 3
+    },
+    {
+        "code": "REL-0022",
+        "title": "Introduction To New Testament",
+        "credit": 3
+    },
+    {
+        "code": "REL-0031",
+        "title": "Philosophy Of Religion",
+        "credit": 3
+    },
+    {
+        "code": "REL-0072",
+        "title": "Hindus and Christians",
+        "credit": 3
+    },
+    {
+        "code": "REL-0088",
+        "title": "Gender in Rabbinic Literature",
+        "credit": 3
+    },
+    {
+        "code": "REL-0102",
+        "title": "Special Topics - Race Before Race in Anct Med",
+        "credit": 3
+    },
+    {
+        "code": "REL-0106",
+        "title": "Religion, Violence and Sexuality",
+        "credit": 3
+    },
+    {
+        "code": "REL-0108",
+        "title": "Creation to Annihilation in Ancient Mediterranean",
+        "credit": 3
+    },
+    {
+        "code": "REL-0110",
+        "title": "Sacred Spaces, Contested Places",
+        "credit": 3
+    },
+    {
+        "code": "REL-0112",
+        "title": "Feminist Theologies",
+        "credit": 3
+    },
+    {
+        "code": "REL-0114",
+        "title": "Political Liberalism and Religion",
+        "credit": 3
+    },
+    {
+        "code": "REL-0137",
+        "title": "Death, Mourning, Afterlives: Global Perspectives",
+        "credit": 3
+    },
+    {
+        "code": "REL-0181",
+        "title": "Judaism and Modernity",
+        "credit": 3
+    },
+    {
+        "code": "REL-0184",
+        "title": "Introduction to the Zohar",
+        "credit": 3
+    },
+    {
+        "code": "REL-0187",
+        "title": "The Story of Moses and King David",
+        "credit": 3
+    },
+    {
+        "code": "REL-0188",
+        "title": "Jewish Experience On Film",
+        "credit": 3
+    },
+    {
+        "code": "REL-0192",
+        "title": "Special Topics - Slavery&Tufts: Archival Rsrch",
+        "credit": 4
+    },
+    {
+        "code": "REL-0196",
+        "title": "Special Topics - Independent Study",
+        "credit": 3
+    },
+    {
+        "code": "REL-0196",
+        "title": "Special Topics - Jewish Feminist Texts & Lives",
+        "credit": 3
+    },
+    {
+        "code": "REL-0196",
+        "title": "Special Topics - Maimonides & Aquinas",
+        "credit": 3
+    },
+    {
+        "code": "REL-0196",
+        "title": "Special Topics - Maimonides & Aquinas",
+        "credit": 1
+    },
+    {
+        "code": "REL-0196",
+        "title": "Special Topics - Tufts and Slavery Independent",
+        "credit": 3
+    },
+    {
+        "code": "REL-0199",
+        "title": "Senior Honors Thesis B",
+        "credit": 8
+    },
+    {
+        "code": "RS-0096",
+        "title": "Romance Linguistics",
+        "credit": 3
+    },
+    {
+        "code": "RUS-0002",
+        "title": "Elementary Russian",
+        "credit": 4
+    },
+    {
+        "code": "RUS-0004",
+        "title": "Intermediate Russian",
+        "credit": 4
+    },
+    {
+        "code": "RUS-0022",
+        "title": "Composition And Conversation",
+        "credit": 4
+    },
+    {
+        "code": "RUS-0078",
+        "title": "Warrior Nations: Russia & U.S.",
+        "credit": 3
+    },
+    {
+        "code": "RUS-0079",
+        "title": "Jewish Voices in Russian Culture",
+        "credit": 3
+    },
+    {
+        "code": "RUS-0081",
+        "title": "Russian & East European Film",
+        "credit": 3
+    },
+    {
+        "code": "RUS-0093",
+        "title": "Directed Study",
+        "credit": 2
+    },
+    {
+        "code": "RUS-0094",
+        "title": "Directed Study",
+        "credit": 3
+    },
+    {
+        "code": "RUS-0122",
+        "title": "Advanced Russian",
+        "credit": 4
+    },
+    {
+        "code": "RUS-0193",
+        "title": "Advanced Directed Study: Language Or Literature",
+        "credit": 2
+    },
+    {
+        "code": "RUS-0194",
+        "title": "Advanced Directed Study: Language Or Literature",
+        "credit": 3
+    },
+    {
+        "code": "RUS-0199",
+        "title": "Senior Honors Thesis B",
+        "credit": 8
+    },
+    {
+        "code": "SCP-0031",
+        "title": "3D Foundations",
+        "credit": 4
+    },
+    {
+        "code": "SCP-0101",
+        "title": "Intro to Sculpture",
+        "credit": 4
+    },
+    {
+        "code": "SCP-0124",
+        "title": "Performing Objects",
+        "credit": 4
+    },
+    {
+        "code": "SCP-0130",
+        "title": "Intermediate Sculpture",
+        "credit": 4
+    },
+    {
+        "code": "SCP-0131",
+        "title": "Woodworking for Sculptors",
+        "credit": 4
+    },
+    {
+        "code": "SCP-0191",
+        "title": "Special Topics - Sculp Fabrication: Good Bones",
+        "credit": 4
+    },
+    {
+        "code": "SMFA-0100",
+        "title": "Independent Study",
+        "credit": 2
+    },
+    {
+        "code": "SMFA-0100",
+        "title": "Independent Study - Ceramic Art",
+        "credit": 2
+    },
+    {
+        "code": "SMFA-0100",
+        "title": "Independent Study - Intermediate Photography",
+        "credit": 2
+    },
+    {
+        "code": "SMFA-0125",
+        "title": "Socially Engaged Art",
+        "credit": 4
+    },
+    {
+        "code": "SMFA-0126",
+        "title": "The Power of Feminist Art",
+        "credit": 4
+    },
+    {
+        "code": "SMFA-0150",
+        "title": "Open Studio - Sculpture",
+        "credit": 4
+    },
+    {
+        "code": "SMFA-0155",
+        "title": "Interdisciplinary Practices",
+        "credit": 4
+    },
+    {
+        "code": "SMFA-0194",
+        "title": "Special Topics - Poetry and Visual Art",
+        "credit": 4
+    },
+    {
+        "code": "SMFA-0196",
+        "title": "Directed Study - Print & Paper",
+        "credit": 4
+    },
+    {
+        "code": "SMFA-0196",
+        "title": "Directed Study - Ceramics",
+        "credit": 4
+    },
+    {
+        "code": "SMFA-0196",
+        "title": "Directed Study - Drawing & Painting",
+        "credit": 4
+    },
+    {
+        "code": "SMFA-0196",
+        "title": "Directed Study - Media Arts",
+        "credit": 4
+    },
+    {
+        "code": "SOC-0001",
+        "title": "Intro. to Sociology: The Scientific Study of Society",
+        "credit": 0
+    },
+    {
+        "code": "SOC-0020",
+        "title": "Families, Romance & Intimacy",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0023",
+        "title": "Self And Society",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0060",
+        "title": "Social Inequalities/Social Justice",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0072",
+        "title": "Sociology of Latinxs",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0075",
+        "title": "Sociology of Violence",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0094",
+        "title": "Special Topics - Sociology of Higher Education",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0094",
+        "title": "Special Topics - Sociology of Drugs in America",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0094",
+        "title": "Special Topics - Social Movements Global South",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0094",
+        "title": "Special Topics - Reproductive Labor, Insts& Pwr",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0094",
+        "title": "Special Topics - Sociology of Emotions",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0094",
+        "title": "Special Topics - Homelessness In America",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0099",
+        "title": "Internship",
+        "credit": 4
+    },
+    {
+        "code": "SOC-0100",
+        "title": "Research Design and Interpretation",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0103",
+        "title": "Sociological Theory",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0108",
+        "title": "Epidemics: Plagues, Peoples and Politics",
+        "credit": 4
+    },
+    {
+        "code": "SOC-0114",
+        "title": "Environmental Sociology",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0121",
+        "title": "Law and Society",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0149",
+        "title": "Selected Topics In Sociology - Historical Sociology in the Digital Age",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0185",
+        "title": "Digital Dystopias: Hate and Extremism Online",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0188",
+        "title": "Seminar In Current Sociology - Race in Latin America",
+        "credit": 3
+    },
+    {
+        "code": "SOC-0190",
+        "title": "Immigration: Public Opinion, Politics, and Media",
+        "credit": 4
+    },
+    {
+        "code": "SOC-0197",
+        "title": "Independent Study",
+        "credit": 4
+    },
+    {
+        "code": "SOC-0198",
+        "title": "Directed Research In Sociology",
+        "credit": 4
+    },
+    {
+        "code": "SOC-0199",
+        "title": "Senior Honors Thesis B",
+        "credit": 8
+    },
+    {
+        "code": "SPN-0001",
+        "title": "Elementary Spanish I",
+        "credit": 3
+    },
+    {
+        "code": "SPN-0002",
+        "title": "Elementary Spanish II",
+        "credit": 0
+    },
+    {
+        "code": "SPN-0003",
+        "title": "Intermediate Spanish I",
+        "credit": 3
+    },
+    {
+        "code": "SPN-0004",
+        "title": "Intermediate Spanish II",
+        "credit": 0
+    },
+    {
+        "code": "SPN-0021",
+        "title": "Composition And Conversation I",
+        "credit": 0
+    },
+    {
+        "code": "SPN-0021",
+        "title": "Composition And Conversation I - Adv Spanish Comp & Conv",
+        "credit": 0
+    },
+    {
+        "code": "SPN-0022",
+        "title": "Composition And Conversation II - Sue\u00f1os en acci\u00f3n",
+        "credit": 0
+    },
+    {
+        "code": "SPN-0022",
+        "title": "Composition And Conversation II - Sue\u00f1os en acci\u00f3n",
+        "credit": 0
+    },
+    {
+        "code": "SPN-0022",
+        "title": "Composition And Conversation II - Sue\u00f1os en acci\u00f3n",
+        "credit": 0
+    },
+    {
+        "code": "SPN-0022",
+        "title": "Composition And Conversation II - Tierra, Clima y Justicia",
+        "credit": 0
+    },
+    {
+        "code": "SPN-0022",
+        "title": "Composition And Conversation II - Viajar, Comer, y Bailar",
+        "credit": 0
+    },
+    {
+        "code": "SPN-0022",
+        "title": "Composition And Conversation II - Viajar, Comer, y Bailar",
+        "credit": 0
+    },
+    {
+        "code": "SPN-0023",
+        "title": "Spanish For Heritage Learners",
+        "credit": 3
+    },
+    {
+        "code": "SPN-0030",
+        "title": "Modern Spanish Literature: 18th to 21st Century",
+        "credit": 3
+    },
+    {
+        "code": "SPN-0031",
+        "title": "Latin American Literature from Nation-Building to the 21st Century",
+        "credit": 3
+    },
+    {
+        "code": "SPN-0032",
+        "title": "Medieval and Early Modern Spanish Literature",
+        "credit": 3
+    },
+    {
+        "code": "SPN-0033",
+        "title": "Latin American Literature from Colonial Times to Nation-Building",
+        "credit": 3
+    },
+    {
+        "code": "SPN-0051",
+        "title": "Sugar and Nation in the Hispanic Caribbean",
+        "credit": 3
+    },
+    {
+        "code": "SPN-0094",
+        "title": "Independent Study",
+        "credit": 3
+    },
+    {
+        "code": "SPN-0121",
+        "title": "Advanced Composition And Conversation I",
+        "credit": 3
+    },
+    {
+        "code": "SPN-0142",
+        "title": "Don Quijote",
+        "credit": 3
+    },
+    {
+        "code": "SPN-0154",
+        "title": "Experiments with Reality in Latin American Fiction",
+        "credit": 3
+    },
+    {
+        "code": "SPN-0162",
+        "title": "Health and Illness Through Literature in Spanish",
+        "credit": 3
+    },
+    {
+        "code": "SPN-0179",
+        "title": "Redefining Spain in Words and Images",
+        "credit": 3
+    },
+    {
+        "code": "SPN-0194",
+        "title": "Independent Study",
+        "credit": 3
+    },
+    {
+        "code": "SPN-0199",
+        "title": "Honors Thesis A",
+        "credit": 0
+    },
+    {
+        "code": "STS-0010",
+        "title": "STS Reading Lab - Classification",
+        "credit": 2
+    },
+    {
+        "code": "STS-0010",
+        "title": "STS Reading Lab - Health and Medicine",
+        "credit": 2
+    },
+    {
+        "code": "STS-0012",
+        "title": "Global History of Science, Technology, and Medicine",
+        "credit": 3
+    },
+    {
+        "code": "STS-0020",
+        "title": "Global Cities",
+        "credit": 3
+    },
+    {
+        "code": "STS-0057",
+        "title": "Philosophy of Technology",
+        "credit": 3
+    },
+    {
+        "code": "STS-0108",
+        "title": "Epidemics: Plagues, Peoples and Politics",
+        "credit": 4
+    },
+    {
+        "code": "STS-0118",
+        "title": "Philosophy Of Biology",
+        "credit": 3
+    },
+    {
+        "code": "STS-0124",
+        "title": "Bioethics",
+        "credit": 3
+    },
+    {
+        "code": "STS-0150",
+        "title": "Special Topics - Automation & AI in Hist Contxt",
+        "credit": 3
+    },
+    {
+        "code": "STS-0150",
+        "title": "Special Topics - Geographies of Crisis",
+        "credit": 3
+    },
+    {
+        "code": "STS-0150",
+        "title": "Special Topics - Philosophy and Black Holes",
+        "credit": 3
+    },
+    {
+        "code": "TCS-0141",
+        "title": "Entrepreneurship for Social Impact",
+        "credit": 3
+    },
+    {
+        "code": "TML-0010",
+        "title": "Preparing New and Aspiring Leaders",
+        "credit": 3
+    },
+    {
+        "code": "TML-0015",
+        "title": "Living a Life with Purpose",
+        "credit": null
+    },
+    {
+        "code": "TML-0112",
+        "title": "Communication Skills",
+        "credit": 3
+    },
+    {
+        "code": "TML-0193",
+        "title": "Special Topics - Lean Software Leadership",
+        "credit": 3
+    },
+    {
+        "code": "TML-0193",
+        "title": "Special Topics - Business Essentials",
+        "credit": 3
+    },
+    {
+        "code": "TML-0193",
+        "title": "Special Topics - Intro to Intellectual Property",
+        "credit": 2
+    },
+    {
+        "code": "TML-0193",
+        "title": "Special Topics - Starting a Small Business",
+        "credit": 2
+    },
+    {
+        "code": "TPS-0001",
+        "title": "Introduction Theatre, Dance, & Performance Studies",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0016",
+        "title": "Latinx Theatre and Film",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0020",
+        "title": "Art of the Moving Image",
+        "credit": 0
+    },
+    {
+        "code": "TPS-0023",
+        "title": "LGBTQ+ Theatre and Performance",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0031",
+        "title": "The Designer\u2019s Eye: A History of Style and Decor",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0034",
+        "title": "Race, Ethnicity, and Gender on the American Stage",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0037",
+        "title": "Global Indigenous Film & Media",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0045",
+        "title": "Introduction To Acting",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0054",
+        "title": "Musical Theatre: Solo & Scene",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0057",
+        "title": "Voice And Speech - The Art Of Confident Expression",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0058",
+        "title": "Public Speaking",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0059",
+        "title": "Stage Management",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0070",
+        "title": "Scene Design",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0072",
+        "title": "Lighting Design",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0079",
+        "title": "Screenwriting I",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0082",
+        "title": "Practicum In Acting",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0082",
+        "title": "Practicum In Acting - Practicum in Acting",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0083",
+        "title": "Practicum In Production",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0091",
+        "title": "Independent Study",
+        "credit": 1
+    },
+    {
+        "code": "TPS-0091",
+        "title": "Independent Study - Historical Draping",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0091",
+        "title": "Independent Study - Couture Sewing Techniques",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0094",
+        "title": "Special Topics - Wig Design and Construction",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0094",
+        "title": "Special Topics - Law and Performance",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0094",
+        "title": "Special Topics - Practicum in Dramaturgy",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0094",
+        "title": "Special Topics - Law and Performance",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0100",
+        "title": "Creative Careers and Artistic Life Seminar",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0113",
+        "title": "Jewish American Theatre",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0121",
+        "title": "Television in the Age of Change",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0170",
+        "title": "Advanced Scene Design",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0178",
+        "title": "Screenwriting II",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0184",
+        "title": "Practicum In Design",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0186",
+        "title": "Practicum In Directing",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0194",
+        "title": "Special Topics - Performance Ethnography",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0194",
+        "title": "Special Topics - Performance and Power in Southeast Asia",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0197",
+        "title": "Senior Capstone",
+        "credit": 3
+    },
+    {
+        "code": "TPS-0199",
+        "title": "Senior Honors Thesis B",
+        "credit": 8
+    },
+    {
+        "code": "UEP-0103",
+        "title": "Introduction to Geospatial Humanities",
+        "credit": 3
+    },
+    {
+        "code": "UEP-0162",
+        "title": "Global Water Systems: Science & Policy",
+        "credit": 3
+    },
+    {
+        "code": "UEP-0181",
+        "title": "Homelessness In America",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0010",
+        "title": "Histories of Film, Part One, 1895-1955",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0020",
+        "title": "Interpreting Art: Tools for Critiquing, Creating and Curating",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0053",
+        "title": "Aesthetics",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0091",
+        "title": "Special Topics - Modern and Contemporary Asian Art",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0122",
+        "title": "Reassessing Museums: Collecting and Art, Biting the Hand that Feeds",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0128",
+        "title": "Food as Sculpture since 1960",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0142",
+        "title": "Art and Migration",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0191",
+        "title": "Independent Study",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0191",
+        "title": "Independent Study - VMS Thesis",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0191",
+        "title": "Independent Study - VMS Thesis: Ukrainian Documentary Film",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0191",
+        "title": "Independent Study - VMS Thesis",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0193",
+        "title": "Special Topics - Vibrant Matter: Visualizing Curatorial Idea",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0193",
+        "title": "Special Topics - \u201cEast Asias\u201d in New England",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0193",
+        "title": "Special Topics - Multi-sensory Cinema & Media",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0193",
+        "title": "Special Topics - Duchamp to Digital Disobedience",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0193",
+        "title": "Special Topics - Art & the Anthropocene",
+        "credit": 3
+    },
+    {
+        "code": "VMS-0193",
+        "title": "Special Topics - Histories of Film I 1895-1955",
+        "credit": 3
+    },
+    {
+        "code": "WGSS-0023",
+        "title": "LGBTQ Theatre",
+        "credit": 3
+    },
+    {
+        "code": "WGSS-0034",
+        "title": "Shakespeare- S",
+        "credit": 3
+    },
+    {
+        "code": "WGSS-0064",
+        "title": "American Fiction From 1950 To The Present",
+        "credit": 3
+    },
+    {
+        "code": "WGSS-0069",
+        "title": "Contemporary Multi-ethnic Literature",
+        "credit": 3
+    },
+    {
+        "code": "WGSS-0073",
+        "title": "Introduction To Queer Studies - Intro to Queer Studies",
+        "credit": 3
+    },
+    {
+        "code": "WGSS-0085",
+        "title": "Topics in Women's, Gender, and Sexuality Studies - Feminist Politics of Place",
+        "credit": 3
+    },
+    {
+        "code": "WGSS-0085",
+        "title": "Topics in Women's, Gender, and Sexuality Studies - Trans History & Influence",
+        "credit": 3
+    },
+    {
+        "code": "WGSS-0124",
+        "title": "Queer Anthropology",
+        "credit": 3
+    },
+    {
+        "code": "WGSS-0140",
+        "title": "Feminist Theologies",
+        "credit": 3
+    },
+    {
+        "code": "WGSS-0142",
+        "title": "Religion, Violence and Sexuality",
+        "credit": 3
+    },
+    {
+        "code": "WGSS-0146",
+        "title": "20th C. Black Women's Writing",
+        "credit": 3
+    },
+    {
+        "code": "WGSS-0185",
+        "title": "Special Topics Seminar in Women's, Gender, and Sexuality Studies - Violence, Pleasure, and Value(s)",
+        "credit": null
+    }
+]

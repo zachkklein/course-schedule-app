@@ -1,0 +1,378 @@
+[
+      {
+        "code": "CS-0020",
+        "title": "Web Programming",
+        "credit": 3
+      },
+      {
+        "code": "CS-0021",
+        "title": "Concurrent Programming",
+        "credit": 3
+      },
+      {
+        "code": "CS-0023",
+        "title": "Game Design",
+        "credit": 3
+      },
+      {
+        "code": "CS-0027",
+        "title": "How Systems Fail",
+        "credit": 3
+      },
+      {
+        "code": "CS-0028",
+        "title": "Cyber-Security and Cyber-Warfare",
+        "credit": 3
+      },
+      {
+        "code": "CS-0030",
+        "title": "Programming for Data Science",
+        "credit": 3
+      },
+      {
+        "code": "CS-0045",
+        "title": "Computer Organization",
+        "credit": 3
+      },
+      {
+        "code": "CS-0050",
+        "title": "Special Topics",
+        "credit": 3
+      },
+      {
+        "code": "CS-0052",
+        "title": "Special Topics in Data Analysis and Interfaces",
+        "credit": 3
+      },
+      {
+        "code": "CS-0062",
+        "title": "Discrete Math Skills Workshop",
+        "credit": 1
+      },
+      {
+        "code": "CS-0086",
+        "title": "Object-oriented Programming for Graphical User Interfaces",
+        "credit": 3
+      },
+      {
+        "code": "CS-0106",
+        "title": "Virtual Machines and Language Translation",
+        "credit": 3
+      },
+      {
+        "code": "CS-0107",
+        "title": "Compilers",
+        "credit": 4
+      },
+      {
+        "code": "CS-0111",
+        "title": "Operating Systems",
+        "credit": 4
+      },
+      {
+        "code": "CS-0112",
+        "title": "Networks",
+        "credit": 3
+      },
+      {
+        "code": "CS-0113",
+        "title": "Human Factors in Security and Privacy",
+        "credit": 3
+      },
+      {
+        "code": "CS-0114",
+        "title": "Network Security",
+        "credit": 3
+      },
+      {
+        "code": "CS-0115",
+        "title": "Database Systems",
+        "credit": 3
+      },
+      {
+        "code": "CS-0116",
+        "title": "Introduction to Security",
+        "credit": 3
+      },
+      {
+        "code": "CS-0117",
+        "title": "Internet-scale Distributed Systems",
+        "credit": 3
+      },
+      {
+        "code": "CS-0118",
+        "title": "Cloud Computing",
+        "credit": 3
+      },
+      {
+        "code": "CS-0119",
+        "title": "Big Data",
+        "credit": 3
+      },
+      {
+        "code": "CS-0120",
+        "title": "Web Programming and Engineering",
+        "credit": 3
+      },
+      {
+        "code": "CS-0121",
+        "title": "Software Engineering",
+        "credit": 3
+      },
+      {
+        "code": "CS-0122",
+        "title": "Parallel Computing",
+        "credit": 3
+      },
+      {
+        "code": "CS-0125",
+        "title": "Numerical Analysis",
+        "credit": 3
+      },
+      {
+        "code": "CS-0126",
+        "title": "Numerical Linear Algebra",
+        "credit": null
+      },
+      {
+        "code": "CS-0131",
+        "title": "Artificial Intelligence",
+        "credit": 3
+      },
+      {
+        "code": "CS-0132",
+        "title": "Computer Vision",
+        "credit": 3
+      },
+      {
+        "code": "CS-0133",
+        "title": "Human-Robot Interaction",
+        "credit": 3
+      },
+      {
+        "code": "CS-0134",
+        "title": "Computational Models in Cognitive Science",
+        "credit": 3
+      },
+      {
+        "code": "CS-0135",
+        "title": "Introduction to Machine Learning and Data Mining",
+        "credit": 3
+      },
+      {
+        "code": "CS-0136",
+        "title": "Statistical Pattern Recognition",
+        "credit": 3
+      },
+      {
+        "code": "CS-0137",
+        "title": "Deep Neural Networks",
+        "credit": 3
+      },
+      {
+        "code": "CS-0138",
+        "title": "Reinforcement Learning",
+        "credit": 3
+      },
+      {
+        "code": "CS-0139",
+        "title": "Ethics for AI, Robotics, and Human Robot Interaction",
+        "credit": 3
+      },
+      {
+        "code": "CS-0140",
+        "title": "Advanced Topics in Computer Architecture",
+        "credit": 3
+      },
+      {
+        "code": "CS-0141",
+        "title": "Probabilistic Robotics for Human-Robot Interaction",
+        "credit": 3
+      },
+      {
+        "code": "CS-0142",
+        "title": "Network Science",
+        "credit": 3
+      },
+      {
+        "code": "CS-0144",
+        "title": "Iterative Mthd Machine Learng",
+        "credit": 3
+      },
+      {
+        "code": "CS-0146",
+        "title": "Computer Architecture",
+        "credit": 3
+      },
+      {
+        "code": "CS-0147",
+        "title": "Digital Design Verification",
+        "credit": 3
+      },
+      {
+        "code": "CS-0149",
+        "title": "Information Theory",
+        "credit": 3
+      },
+      {
+        "code": "CS-0150",
+        "title": "Special Topics",
+        "credit": 3
+      },
+      {
+        "code": "CS-0151",
+        "title": "Special Topics in Data Infrastructure and Systems",
+        "credit": 3
+      },
+      {
+        "code": "CS-0152",
+        "title": "Special Topics in Data Analysis and Interfaces",
+        "credit": 3
+      },
+      {
+        "code": "CS-0160",
+        "title": "Algorithms",
+        "credit": 3
+      },
+      {
+        "code": "CS-0163",
+        "title": "Computational Geometry",
+        "credit": 3
+      },
+      {
+        "code": "CS-0166",
+        "title": "Computational Systems Biology",
+        "credit": 3
+      },
+      {
+        "code": "CS-0167",
+        "title": "Computational Biology",
+        "credit": 3
+      },
+      {
+        "code": "CS-0168",
+        "title": "Convex Optimization",
+        "credit": 3
+      },
+      {
+        "code": "CS-0169",
+        "title": "Statistical Bioinformatics",
+        "credit": 3
+      },
+      {
+        "code": "CS-0170",
+        "title": "Computation Theory",
+        "credit": 3
+      },
+      {
+        "code": "CS-0171",
+        "title": "Human Computer Interaction",
+        "credit": 3
+      },
+      {
+        "code": "CS-0175",
+        "title": "Computer Graphics",
+        "credit": 3
+      },
+      {
+        "code": "CS-0178",
+        "title": "Visual Analytics",
+        "credit": 3
+      },
+      {
+        "code": "MATH-0042",
+        "title": "Calculus III",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0044",
+        "title": "Honors Calculus III",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0051",
+        "title": "Differential Equations",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0063",
+        "title": "Number Theory",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0070",
+        "title": "Linear Algebra",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0072",
+        "title": "Abstract Linear Algebra",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0087",
+        "title": "Mathematical Modeling and Computation",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0123",
+        "title": "Mathematical Aspects of Data Analysis",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0125",
+        "title": "Numerical Analysis",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0126",
+        "title": "Numerical Linear Algebra",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0133",
+        "title": "Complex Variables",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0135",
+        "title": "Real Analysis I",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0136",
+        "title": "Real Analysis II",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0145",
+        "title": "Abstract Algebra I",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0146",
+        "title": "Abstract Algebra II",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0155",
+        "title": "Partial Differential Equations I",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0156",
+        "title": "Partial Differential Equations II",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0165",
+        "title": "Probability",
+        "credit": 4
+      },
+      {
+        "code": "MATH-0166",
+        "title": "Statistics",
+        "credit": 4
+      }
+    ]
+  

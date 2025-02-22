@@ -1,0 +1,648 @@
+[
+    {
+      "code": "BME-0141",
+      "title": "Analytical Tools For Biomedical Engineering",
+      "credit": 3
+    },
+    {
+      "code": "CS-0061",
+      "title": "Discrete Mathematics",
+      "credit": 3
+    },
+    {
+      "code": "EE-0104",
+      "title": "Probabilistic Systems Analysis",
+      "credit": 3
+    },
+    {
+      "code": "ENP-0164",
+      "title": "Applied Behavioral Statistics for Engineering",
+      "credit": 3
+    },
+    {
+      "code": "ES-0055",
+      "title": "Numerical Methods",
+      "credit": 3
+    },
+    {
+      "code": "ES-0056",
+      "title": "Probability And Statistics",
+      "credit": 3
+    },
+    {
+      "code": "ES-0101",
+      "title": "Numerical Methods",
+      "credit": 4
+    },
+    {
+      "code": "MATH-0032",
+      "title": "Calculus I",
+      "credit": 4
+    },
+    {
+      "code": "MATH-0034",
+      "title": "Calculus II",
+      "credit": 4
+    },
+    {
+      "code": "MATH-0042",
+      "title": "Calculus III",
+      "credit": 4
+    },
+    {
+      "code": "MATH-0051",
+      "title": "Differential Equations",
+      "credit": 4
+    },
+    {
+      "code": "MATH-0061",
+      "title": "Discrete Mathematics",
+      "credit": 3
+    },
+    {
+      "code": "MATH-0063",
+      "title": "Number Theory",
+      "credit": 4
+    },
+    {
+      "code": "MATH-0065",
+      "title": "Bridge to Higher Mathematics",
+      "credit": 4
+    },
+    {
+      "code": "MATH-0070",
+      "title": "Linear Algebra",
+      "credit": 4
+    },
+    {
+      "code": "MATH-0135",
+      "title": "Real Analysis I",
+      "credit": 4
+    },
+    {
+      "code": "MATH-0136",
+      "title": "Real Analysis II",
+      "credit": 4
+    },
+    {
+      "code": "MATH-0145",
+      "title": "Abstract Algebra I",
+      "credit": 4
+    },
+    {
+      "code": "MATH-0165",
+      "title": "Probability",
+      "credit": 4
+    },
+    {
+      "code": "MATH-0166",
+      "title": "Statistics",
+      "credit": 4
+    },
+    {
+      "code": "ME-0102",
+      "title": "Statistical Quality Control:",
+      "credit": 4
+    },
+    {
+      "code": "CEE-0156",
+      "title": "Biostatistics",
+      "credit": 4
+    },
+    {
+      "code": "EE-0023",
+      "title": "Linear Systems",
+      "credit": 4
+    },
+    {
+      "code": "EE-0024",
+      "title": "Probabilistic Systems Analysis",
+      "credit": 4
+    },
+    {
+      "code": "MATH-0133",
+      "title": "Complex Variables",
+      "credit": 4
+    },
+    {
+      "code": "MATH-0146",
+      "title": "Abstract Algebra II",
+      "credit": 4
+    },
+    {
+      "code": "MATH-0175",
+      "title": "Algebraic Topology",
+      "credit": 4
+    },
+    {
+      "code": "MATH-0185",
+      "title": "Differential Geometry",
+      "credit": 4
+    },
+    {
+      "code": "ME-0100",
+      "title": "Applied Mathematics For Engineers",
+      "credit": 4
+    },
+    {
+      "code": "AST-0031",
+      "title": "Stellar Structure & Evolution",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0013",
+      "title": "Cells And Organisms",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0015",
+      "title": "Cells & Organisms Lab",
+      "credit": 5
+    },
+    {
+      "code": "BIO-0038",
+      "title": "Principles of Paleontology",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0049",
+      "title": "Experiments In Physiology",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0050",
+      "title": "Experiments In Molecular Biology",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0051",
+      "title": "Experiments In Ecology",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0103",
+      "title": "Developmental Biology",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0105",
+      "title": "Molecular Biology",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0110",
+      "title": "Endocrinology",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0115",
+      "title": "Physiology – Circulation, Respiration, and Renal",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0142",
+      "title": "Population And Community Ecology",
+      "credit": 3
+    },
+    {
+      "code": "BIO-0144",
+      "title": "Principles Of Conservation Biology",
+      "credit": 3
+    },
+    {
+      "code": "BIO-0181",
+      "title": "Tropical Ecology And Conservation",
+      "credit": 3
+    },
+    {
+      "code": "BME-0033",
+      "title": "Biomedical Concepts at the Molecular, Protein and Cellular Scales I",
+      "credit": 3
+    },
+    {
+      "code": "CHEM-0001",
+      "title": "General Chemistry I with Lab",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0002",
+      "title": "General Chemistry II with Lab",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0011",
+      "title": "Expanded General Chemistry I with Lab",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0031",
+      "title": "Physical Chemistry I",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0033",
+      "title": "Physical Chemistry Lab",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0043",
+      "title": "Bioanalytical Chemistry",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0045",
+      "title": "Bioanalytical Chemistry Lab",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0051",
+      "title": "Organic Chemistry I",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0053",
+      "title": "Organic Chemistry I Lab",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0061",
+      "title": "Inorganic Chemistry",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0063",
+      "title": "Inorganic And Synthetic Chemistry Laboratory",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0133",
+      "title": "Quantum Mechanics",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0135",
+      "title": "Biophysical Chemistry",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0141",
+      "title": "Instrumental Analysis",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0150",
+      "title": "Mechanistic Reasoning in Organic Chemistry",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0152",
+      "title": "Advanced Organic Synthesis",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0157",
+      "title": "Molecular Medicine",
+      "credit": 4
+    },
+    {
+      "code": "CHEM-0172",
+      "title": "Biochemistry II",
+      "credit": 4
+    },
+    {
+      "code": "ECS-0001",
+      "title": "Introduction to The Dynamic Earth",
+      "credit": 4
+    },
+    {
+      "code": "ECS-0005",
+      "title": "Introduction To Oceanography",
+      "credit": 3
+    },
+    {
+      "code": "ECS-0011",
+      "title": "Mineralogy W/lab",
+      "credit": 4
+    },
+    {
+      "code": "ECS-0022",
+      "title": "Structural Geology",
+      "credit": 3
+    },
+    {
+      "code": "ECS-0038",
+      "title": "Principles of Paleontology",
+      "credit": 4
+    },
+    {
+      "code": "ECS-0193",
+      "title": "Senior Thesis A",
+      "credit": 3
+    },
+    {
+      "code": "ECS-0194",
+      "title": "Senior Thesis B",
+      "credit": 3
+    },
+    {
+      "code": "MSE-0124",
+      "title": "Instrumental Analysis",
+      "credit": 3
+    },
+    {
+      "code": "MSE-0130",
+      "title": "Quantum Mechanics",
+      "credit": 4
+    },
+    {
+      "code": "MSE-0140",
+      "title": "Introduction To Solid-state Physics I",
+      "credit": 3
+    },
+    {
+      "code": "PHY-0011",
+      "title": "General Physics I W/lab",
+      "credit": 5
+    },
+    {
+      "code": "PHY-0012",
+      "title": "General Physics II W/lab",
+      "credit": 5
+    },
+    {
+      "code": "PHY-0013",
+      "title": "Introduction To Modern Physics",
+      "credit": 5
+    },
+    {
+      "code": "PHY-0031",
+      "title": "Optics And Wave Motion",
+      "credit": 5
+    },
+    {
+      "code": "PHY-0042",
+      "title": "Electricity And Magnetism I - Electricity And Magnetism I",
+      "credit": 5
+    },
+    {
+      "code": "PHY-0061",
+      "title": "Quantum Theory - Quantum Theory I",
+      "credit": 4
+    },
+    {
+      "code": "PHY-0072",
+      "title": "Introduction To Solid State",
+      "credit": 3
+    },
+    {
+      "code": "PHY-0082",
+      "title": "Nuclear and Particle Physics - Nuclear and Particle Physics",
+      "credit": 4
+    },
+    {
+      "code": "PHY-0115",
+      "title": "Optics and Wave Motion",
+      "credit": 4
+    },
+    {
+      "code": "PHY-0131",
+      "title": "Advanced Classical Mechanics",
+      "credit": 4
+    },
+    {
+      "code": "PHY-0145",
+      "title": "Classical Electromagnetic Theory I",
+      "credit": 4
+    },
+    {
+      "code": "PHY-0163",
+      "title": "Quantum Theory I",
+      "credit": 4
+    },
+    {
+      "code": "PHY-0173",
+      "title": "Introduction To Solid-state Physics I",
+      "credit": 4
+    },
+    {
+      "code": "PHY-0183",
+      "title": "Particle Physics I",
+      "credit": 4
+    },
+    {
+      "code": "AST-0032",
+      "title": "Galactic and Extragalactic Astrophysics",
+      "credit": 4
+    },
+    {
+      "code": "AST-0051",
+      "title": "Astrophysics Laboratory",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0014",
+      "title": "Organisms And Population W/ Lab",
+      "credit": 5
+    },
+    {
+      "code": "BIO-0041",
+      "title": "General Genetics",
+      "credit": 5
+    },
+    {
+      "code": "BIO-0046",
+      "title": "Cell Biology",
+      "credit": 5
+    },
+    {
+      "code": "BIO-0061",
+      "title": "Biology of Aging",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0104",
+      "title": "Immunology",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0106",
+      "title": "Microbiology Lecture",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0108",
+      "title": "Plant Development",
+      "credit": 3
+    },
+    {
+      "code": "BIO-0119",
+      "title": "Biophysics",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0130",
+      "title": "Animal Behavior",
+      "credit": 3
+    },
+    {
+      "code": "BIO-0134",
+      "title": "Neurobiology",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0143",
+      "title": "Evolutionary Biology w/Lab",
+      "credit": 4
+    },
+    {
+      "code": "BIO-0152",
+      "title": "Biochemistry And Cellular Metabolism",
+      "credit": 5
+    },
+    {
+      "code": "BIO-0164",
+      "title": "Marine Biology",
+      "credit": 3
+    },
+    {
+      "code": "BIO-0180",
+      "title": "Seminar In Conservation Biology",
+      "credit": 3
+    },
+    {
+      "code": "BIO-0186",
+      "title": "Seminar in Field Endocrinology",
+      "credit": 3
+    },
+    {
+      "code": "BIO-0188",
+      "title": "Seminar In Molecular Biology And Genetics",
+      "credit": 3
+    },
+    {
+      "code": "BME-0025",
+      "title": "Biophysics",
+      "credit": 4
+    },
+    {
+      "code": "BME-0034",
+      "title": "Biomedical Concepts at the Molecular, Protein and Cellular Scales II",
+      "credit": 3
+    },
+    {
+      "code": "CHEM-0032",
+      "title": "Physical Chemistry II",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0042",
+      "title": "Quantitative Analysis",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0052",
+      "title": "Organic Chemistry II",
+      "credit": 5
+    },
+    {
+      "code": "CHEM-0142",
+      "title": "Advanced Analytical Methods",
+      "credit": 4
+    },
+    {
+      "code": "CHEM-0151",
+      "title": "Physical Organic Chemistry",
+      "credit": 4
+    },
+    {
+      "code": "CHEM-0171",
+      "title": "Biochemistry I",
+      "credit": 4
+    },
+    {
+      "code": "ECS-0003",
+      "title": "Introduction to Climate Science",
+      "credit": 3
+    },
+    {
+      "code": "ECS-0012",
+      "title": "Igneous And Metamorphic Petrology W/lab",
+      "credit": 4
+    },
+    {
+      "code": "ECS-0015",
+      "title": "Mass Extinctions: The Past, Present, and Future of Biodiversity",
+      "credit": 3
+    },
+    {
+      "code": "ECS-0042",
+      "title": "Sedimentology and Stratigraphy",
+      "credit": 3
+    },
+    {
+      "code": "ECS-0052",
+      "title": "Paleoclimate",
+      "credit": 3
+    },
+    {
+      "code": "ECS-0056",
+      "title": "Physical Oceanography",
+      "credit": 3
+    },
+    {
+      "code": "ECS-0058",
+      "title": "The Cryosphere",
+      "credit": 3
+    },
+    {
+      "code": "ECS-0256",
+      "title": "Physical Oceanography",
+      "credit": 3
+    },
+    {
+      "code": "ECS-0258",
+      "title": "The Cryosphere",
+      "credit": 3
+    },
+    {
+      "code": "PHY-0025",
+      "title": "Biophysics",
+      "credit": 3
+    },
+    {
+      "code": "PHY-0032",
+      "title": "Intermediate Mechanics",
+      "credit": 3
+    },
+    {
+      "code": "PHY-0043",
+      "title": "Electricity And Magnetism II",
+      "credit": 4
+    },
+    {
+      "code": "PHY-0062",
+      "title": "Quantum Theory II",
+      "credit": 4
+    },
+    {
+      "code": "PHY-0064",
+      "title": "Advanced Experimental Physics",
+      "credit": 4
+    },
+    {
+      "code": "PHY-0068",
+      "title": "Computational Physics",
+      "credit": 4
+    },
+    {
+      "code": "PHY-0146",
+      "title": "Electromagnetic Theory II",
+      "credit": 4
+    },
+    {
+      "code": "PHY-0164",
+      "title": "Quantum Physics II",
+      "credit": 4
+    }
+  ]
+  

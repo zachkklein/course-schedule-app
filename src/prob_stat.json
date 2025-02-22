@@ -1,0 +1,33 @@
+[
+    {
+      "code": "MATH-0166",
+      "title": "Statistics",
+      "credit": 4
+    },
+    {
+      "code": "ES-0056",
+      "title": "Probability and Statistics",
+      "credit": 4
+    },
+    {
+      "code": "EE-0024",
+      "title": "Probabilistic Systems Analysis",
+      "credit": 3
+    },
+    {
+      "code": "EE-0104",
+      "title": "Probabilistic Systems Analysis",
+      "credit": 3
+    },
+    {
+      "code": "BME-0141",
+      "title": "Analytical Tools for Biomedical Engineering",
+      "credit": 3
+    },
+    {
+      "code": "PHY-0153",
+      "title": "Statistical Mechanics",
+      "credit": 3
+    }
+  ]
+  

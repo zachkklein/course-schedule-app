@@ -1,0 +1,17 @@
+[
+    {
+        "code": "PHIL-0024",
+        "title": "Intro To Philosophy",
+        "credit": 4
+    },
+    {
+        "code": "PHIL-0057",
+        "title": "Philosophy of Technology",
+        "credit": 3
+    },
+    {
+        "code": "EM-0054",
+        "title": "Engineering Leadership",
+        "credit": 3
+    }
+]
