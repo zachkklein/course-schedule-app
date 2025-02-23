@@ -392,7 +392,7 @@
     {
         "code": "CLS-0038",
         "title": "History Of Ancient Rome",
-        "credit": 0
+        "credit": 3
     },
     {
         "code": "CLS-0059",
@@ -467,7 +467,7 @@
     {
         "code": "CSHD-0001",
         "title": "Introduction to Child Study and Human Development",
-        "credit": 0
+        "credit": 3
     },
     {
         "code": "CSHD-0034",
@@ -592,7 +592,7 @@
     {
         "code": "CVS-0014",
         "title": "Introduction To Ethics",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "CVS-0017",
@@ -632,12 +632,12 @@
     {
         "code": "CVS-0052",
         "title": "Western Political Thought II",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "CVS-0061",
         "title": "Introduction To International Relations",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "CVS-0063",
@@ -802,12 +802,12 @@
     {
         "code": "DNC-0030",
         "title": "Hip Hop: Introduction to Breakin' Culture/Practice",
-        "credit": 0
+        "credit": 3
     },
     {
         "code": "DNC-0032",
         "title": "Hip Hop II: Study Through the Cypher",
-        "credit": 0
+        "credit": 3
     },
     {
         "code": "DNC-0035",
@@ -942,12 +942,12 @@
     {
         "code": "EC-0005",
         "title": "Principles Of Economics",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "EC-0008",
         "title": "Principles Of Economics With Environmental Applications",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "EC-0009",
@@ -1007,7 +1007,7 @@
     {
         "code": "EC-0060",
         "title": "International Economics",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "EC-0090",
@@ -1827,12 +1827,12 @@
     {
         "code": "FMS-0001",
         "title": "Art of the Moving Image",
-        "credit": 0
+        "credit": 3
     },
     {
         "code": "FMS-0002",
         "title": "Global History of Cinema",
-        "credit": 0
+        "credit": 3
     },
     {
         "code": "FMS-0010",
@@ -1992,7 +1992,7 @@
     {
         "code": "FR-0002",
         "title": "Elementary French II",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "FR-0003",
@@ -2002,37 +2002,37 @@
     {
         "code": "FR-0004",
         "title": "Intermediate French II",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "FR-0021",
         "title": "Composition And Conversation I - Debates & Controversies",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "FR-0021",
         "title": "Composition And Conversation I - Crimes et sentiments",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "FR-0021",
         "title": "Composition And Conversation I - Diversit\u00e9s francophones",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "FR-0022",
         "title": "Composition And Conversation II - Voyages et d\u00e9couvertes",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "FR-0022",
         "title": "Composition And Conversation II - Cin\u00e9ma et soci\u00e9t\u00e9",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "FR-0022",
         "title": "Composition And Conversation II - Politiques Econ & Soc",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "FR-0031",
@@ -2452,12 +2452,12 @@
     {
         "code": "HIST-0051",
         "title": "History Of Ancient Rome",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "HIST-0054",
         "title": "Europe Since 1815",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "HIST-0065",
@@ -2467,7 +2467,7 @@
     {
         "code": "HIST-0071",
         "title": "Middle East and North Africa Since WWI",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "HIST-0082",
@@ -2622,12 +2622,12 @@
     {
         "code": "ILVS-0051",
         "title": "Art of the Moving Image",
-        "credit": 0
+        "credit": 3
     },
     {
         "code": "ILVS-0052",
         "title": "Global History of Cinema",
-        "credit": 0
+        "credit": 3
     },
     {
         "code": "ILVS-0053",
@@ -2727,12 +2727,12 @@
     {
         "code": "ITAL-0002",
         "title": "Elementary Italian II",
-        "credit": 0
+        "credit": 3
     },
     {
         "code": "ITAL-0004",
         "title": "Intermediate Italian II",
-        "credit": 0
+        "credit": 3
     },
     {
         "code": "ITAL-0010",
@@ -2742,7 +2742,7 @@
     {
         "code": "ITAL-0022",
         "title": "Composition And Conversation II",
-        "credit": 0
+        "credit": 3
     },
     {
         "code": "ITAL-0052",
@@ -2912,7 +2912,7 @@
     {
         "code": "LAS-0021",
         "title": "Comp & Conversation I",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "LAS-0091",
@@ -2927,7 +2927,7 @@
     {
         "code": "LAT-0002",
         "title": "Elementary Latin II",
-        "credit": 0
+        "credit": 3
     },
     {
         "code": "LAT-0003",
@@ -3142,7 +3142,7 @@
     {
         "code": "MUS-0069",
         "title": "Gospel Choir",
-        "credit": 0
+        "credit": 3
     },
     {
         "code": "MUS-0070",
@@ -3262,7 +3262,7 @@
     {
         "code": "MUS-0112",
         "title": "Sound & Structure II: Color, Form, and Meaning",
-        "credit": 0
+        "credit": 3
     },
     {
         "code": "MUS-0114",
@@ -3497,7 +3497,7 @@
     {
         "code": "PHIL-0024",
         "title": "Introduction To Ethics",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "PHIL-0035",
@@ -3507,7 +3507,7 @@
     {
         "code": "PHIL-0042",
         "title": "Western Political Thought II",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "PHIL-0043",
@@ -3712,22 +3712,22 @@
     {
         "code": "POR-0003",
         "title": "Intermediate Portuguese I",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "POR-0011",
         "title": "Elementary Portuguese I for Romance Lang. Learners",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "POR-0012",
         "title": "Elementary Portuguese II for Romance Lang. Learners",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "POR-0021",
         "title": "Composition And Conversation I",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "POR-0127",
@@ -3817,12 +3817,12 @@
     {
         "code": "PS-0021",
         "title": "Introduction To Comparative Politics",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "PS-0042",
         "title": "Western Political Thought II",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "PS-0043",
@@ -3832,7 +3832,7 @@
     {
         "code": "PS-0061",
         "title": "Introduction To International Relations",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "PS-0099",
@@ -4112,7 +4112,7 @@
     {
         "code": "PSY-0199",
         "title": "Senior Honors Thesis A",
-        "credit": 0
+        "credit": 8
     },
     {
         "code": "PSY-0199",
@@ -4487,7 +4487,7 @@
     {
         "code": "SOC-0001",
         "title": "Intro. to Sociology: The Scientific Study of Society",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "SOC-0020",
@@ -4617,7 +4617,7 @@
     {
         "code": "SPN-0002",
         "title": "Elementary Spanish II",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "SPN-0003",
@@ -4627,47 +4627,47 @@
     {
         "code": "SPN-0004",
         "title": "Intermediate Spanish II",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "SPN-0021",
         "title": "Composition And Conversation I",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "SPN-0021",
         "title": "Composition And Conversation I - Adv Spanish Comp & Conv",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "SPN-0022",
         "title": "Composition And Conversation II - Sue\u00f1os en acci\u00f3n",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "SPN-0022",
         "title": "Composition And Conversation II - Sue\u00f1os en acci\u00f3n",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "SPN-0022",
         "title": "Composition And Conversation II - Sue\u00f1os en acci\u00f3n",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "SPN-0022",
         "title": "Composition And Conversation II - Tierra, Clima y Justicia",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "SPN-0022",
         "title": "Composition And Conversation II - Viajar, Comer, y Bailar",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "SPN-0022",
         "title": "Composition And Conversation II - Viajar, Comer, y Bailar",
-        "credit": 0
+        "credit": 4
     },
     {
         "code": "SPN-0023",
@@ -4737,7 +4737,7 @@
     {
         "code": "SPN-0199",
         "title": "Honors Thesis A",
-        "credit": 0
+        "credit": 8
     },
     {
         "code": "STS-0010",
@@ -4847,7 +4847,7 @@
     {
         "code": "TPS-0020",
         "title": "Art of the Moving Image",
-        "credit": 0
+        "credit": 3
     },
     {
         "code": "TPS-0023",

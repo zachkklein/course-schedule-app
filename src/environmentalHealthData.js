@@ -3,7 +3,7 @@
 const environmentalHealthData = [
     {
       section: "Mathematics & Natural Sciences",
-      subtotal: "≥39",
+      subtotal: "39",
       courses: [
         { id: "MATH32", code: "MATH 32", title: "Calculus I", credit: 4 },
         { id: "MATH34", code: "MATH 34", title: "Calculus II", credit: 4 },
@@ -40,7 +40,7 @@ const environmentalHealthData = [
     },
     {
       section: "HASS Electives",
-      subtotal: "≥6",
+      subtotal: "6",
       courses: [
         { id: "Humanities_Elec_c", code: "Humanities Elective (c)", title: "", credit: "≥3" },
         { id: "SocialSci_Elec_d", code: "Social Science Elective (d)", title: "", credit: "≥3" },
@@ -74,7 +74,7 @@ const environmentalHealthData = [
     },
     {
       section: "Track Electives",
-      subtotal: "≥20",
+      subtotal: "20",
       courses: [
         {
           id: "Track_Electives",
@@ -86,7 +86,7 @@ const environmentalHealthData = [
     },
     {
       section: "Program Electives",
-      subtotal: "≥9",
+      subtotal: "9",
       courses: [
         {
           id: "Program_Electives",

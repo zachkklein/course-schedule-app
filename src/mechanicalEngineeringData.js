@@ -3,7 +3,7 @@
 const mechanicalEngineeringData = [
     {
       section: "Mathematics & Natural Sciences",
-      subtotal: "32-35",
+      subtotal: "35",
       courses: [
         { id: "MATH32", code: "MATH 32", title: "Calculus I", credit: 4 },
         { id: "MATH34", code: "MATH 34", title: "Calculus II", credit: 4 },
@@ -30,7 +30,7 @@ const mechanicalEngineeringData = [
     },
     {
       section: "HASS Electives",
-      subtotal: "≥24",
+      subtotal: "24",
       courses: [
         { id: "ENG1_HASS", code: "ENG 1", title: "Expos. Writing or ENG 3", credit: 3 },
         {
@@ -89,7 +89,7 @@ const mechanicalEngineeringData = [
     },
     {
       section: "Program Electives",
-      subtotal: "≥21",
+      subtotal: "21",
       courses: [
         { id: "Tech_Elec_f1", code: "Technical Elective (f)", title: "", credit: "≥3" },
         { id: "Tech_Elec_f2", code: "Technical Elective (f)", title: "", credit: "≥3" },

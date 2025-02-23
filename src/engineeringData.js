@@ -3,7 +3,7 @@
 const engineeringData = [
     {
       section: "Mathematics & Natural Sciences",
-      subtotal: "≥30",
+      subtotal: "30",
       courses: [
         { id: "MATH32", code: "MATH 32", title: "Calculus I", credit: 4 },
         { id: "MATH34", code: "MATH 34", title: "Calculus II", credit: 4 },
@@ -21,7 +21,7 @@ const engineeringData = [
     },
     {
       section: "HASS",
-      subtotal: "≥24",
+      subtotal: "24",
       courses: [
         {
           id: "ENG1_HASS",
@@ -46,7 +46,7 @@ const engineeringData = [
     },
     {
       section: "Engineering & Computing",
-      subtotal: "≥30",
+      subtotal: "30",
       courses: [
         {
           id: "EN1_Eng",
@@ -71,7 +71,7 @@ const engineeringData = [
     },
     {
       section: "BSE Electives",
-      subtotal: "≥15",
+      subtotal: "15",
       courses: [
         {
           id: "BSE_Elec1",
@@ -107,14 +107,14 @@ const engineeringData = [
     },
     {
       section: "Program Electives",
-      subtotal: "~21",
+      subtotal: "21",
       courses: [
         {
           id: "Program_Electives",
           code: "Program Electives",
           title:
             "List additional courses to fulfill the ≥120 SHU total requirement for the degree",
-          credit: "~21",
+          credit: "21",
         },
       ],
     },

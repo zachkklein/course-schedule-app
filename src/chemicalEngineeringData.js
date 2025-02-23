@@ -57,7 +57,7 @@ const chemicalEngineeringData = [
     },
     {
       section: "Natural Sciences",
-      subtotal: "≥32",
+      subtotal: "32",
       courses: [
         {
           id: "CHEM1_11",
@@ -117,7 +117,7 @@ const chemicalEngineeringData = [
     },
     {
       section: "HASS",
-      subtotal: "≥24",
+      subtotal: "24",
       courses: [
         {
           id: "ENG1",
@@ -213,7 +213,7 @@ const chemicalEngineeringData = [
     },
     {
       section: "Program Electives",
-      subtotal: "≥15",
+      subtotal: "15",
       courses: [
         {
           id: "Chem_Elec_d",
