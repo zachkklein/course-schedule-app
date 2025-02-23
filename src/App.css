@@ -1,38 +1,135 @@
-.App {
+/* App.css */
+
+body {
+  background-color: #e3f2fd; /* background */
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #2c3e50;
+}
+
+/* Container */
+.app-container {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  border: 1px solid #bbdefb;
+}
+
+/* Headings */
+h1 {
   text-align: center;
+  margin-bottom: 10px;
+  color: #1565c0; 
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #1e88e5;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* Major Selector */
+.select-major {
+  text-align: center;
+  margin-bottom: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.select-major label {
+  font-size: 16px;
+  font-weight: bold;
+  color: #0d47a1; 
+}
+
+.select-major select {
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid #90caf9;
+  font-size: 16px;
+  margin-left: 8px;
+  background-color: #e3f2fd;
+  color: #1565c0;
+  cursor: pointer;
+}
+
+.select-major select:hover {
+  border-color: #64b5f6;
+}
+
+/* Table Styles */
+.course-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.course-table th,
+.course-table td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #90caf9;
+}
+
+.course-table th {
+  background-color: #64b5f6;
+  font-weight: bold;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.course-table tr:hover {
+  background-color: #bbdefb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Section header rows */
+.course-table tr.section-header td {
+  background-color: #42a5f5;
+  font-weight: bold;
+  color: white;
+}
+
+/* remaining credits */
+.course-table tr.section-footer td {
+  font-style: italic;
+  background-color: #e3f2fd;
+  text-align: right;
+  font-weight: bold;
+}
+
+/* Checkbox styling */
+.course-table input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+  accent-color: #1e88e5;
+}
+
+/* React-Select Overrides */
+.css-yk16xz-control,
+.css-1pahdxg-control {
+  border-radius: 6px;
+  border: 1px solid #64b5f6;
+  min-height: 40px;
+  background-color: #e3f2fd;
+  color: #1565c0;
+}
+
+.css-1okebmr-indicatorSeparator {
+  display: none;
+}
+
+/* Dropdown option colors */
+.css-26l3qy-menu {
+  background-color: #e3f2fd;
+}
+
+.css-1n7v3ny-option {
+  background-color: #bbdefb;
+  color: #0d47a1;
+}
+
+.css-1n7v3ny-option:hover {
+  background-color: #90caf9;
 }

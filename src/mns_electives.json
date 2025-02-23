@@ -643,6 +643,16 @@
       "code": "PHY-0164",
       "title": "Quantum Physics II",
       "credit": 4
+    },
+    {
+      "code": "PRE-0000",
+      "title": "Prerequisite Course",
+      "credit": 4
+    },
+    {
+      "code": "PRE-0001",
+      "title": "Prerequisite Course",
+      "credit": 3
     }
   ]
   
