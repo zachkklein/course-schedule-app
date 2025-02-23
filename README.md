@@ -5,7 +5,6 @@ Project for [JumboHack](https://jumbohack.org/)
 
 An improved course audit for Tufts students. Users will be able to see their degree progress in a more streamlined and simpiler way.
 
-https://github.com/zachkklein/Movie-Recommender/assets/106212306/0689f894-92c5-40d4-9f7b-68464cff5d5d
 
 
 ### Interaction/Getting Started
