@@ -21,10 +21,12 @@ a hopeful design for the future which includes all Majors.
 
 ### The Team
 **Jack of Hearts Systems**
-* First item
-* Second item
-* Third item
-* Fourth item
+* Zachary Klein and Andrew Bacigalupi
+    * Worked on the programming aspect of the project
+    * Programmed in React.js to implement the website
+* Kasey Afshani and Will Bornmann
+    * Worked on the design of the website and the Figma
+    * Used design principles to create an accessible user interface
 
 ### Acknowledgements
 
