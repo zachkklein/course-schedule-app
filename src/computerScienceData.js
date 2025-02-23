@@ -11,7 +11,7 @@ const computerScienceData = [
         { id: "CSMATH61", code: "CS/MATH 61", title: "Discrete Math or MATH 65 Foundations of higher mathematics", credit: 3 },
         { id: "MATH70_72", code: "MATH 70 / MATH 72", title: "Linear Algebra or Abstract Lin. Alg.", credit: 3 },
         { id: "BCP_Elective1", code: "BIO-CHEM-PHY Elective (a)", title: "", credit: 5 },
-        { id: "BCP_Elective2", code: "BIO-CHEM-PHY Elective (a)", title: "", credit: 5 },
+        { id: "BCP_Elective2", code: "BIO-CHEM-PHY Elective (b)", title: "", credit: 5 },
         { id: "MNS_Elective", code: "MNS Elective (b)", title: "", credit: "≥3" },
         { id: "ProbStat_Elective", code: "Prob & Stat Elective (c)", title: "", credit: "≥3" },
       ],

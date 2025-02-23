@@ -1,5 +1,9 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Select, { components } from 'react-select';
+import { BrowserRouter as Router, Route, Routes, useNavigate } from 'react-router-dom';
+import ResultsPage from './resultsPage';
+import ScrollToTop from './switchScroll';
+import ScheduleEntry from './ScheduleEntry';
 import './App.css';
 
 // Import major data
@@ -90,13 +94,13 @@ const ElectiveCourseRow = ({
   completed,
   toggleCourse,
   options,
-  selectedCourses, // mapping of already-selected courses for this elective group
+  selectedCourses,
   selectedValue,
   handleSelect,
   placeholder,
   getSelectedCourseObj,
 }) => {
-  // Filter out options that have already been selected in other rows,
+  // Filter out options that have already been selected elsewhere,
   // but always include the currently selected option.
   const filteredOptions = options.filter(option =>
     option.value === selectedValue || !Object.values(selectedCourses).includes(option.value)
@@ -109,7 +113,7 @@ const ElectiveCourseRow = ({
           type="checkbox"
           checked={completed}
           onChange={() => toggleCourse(course.id)}
-          disabled={!selectedValue} // Disable checkbox if no course is selected
+          disabled={!selectedValue}
         />
       </td>
       <td style={{ width: '200px' }}>
@@ -127,10 +131,29 @@ const ElectiveCourseRow = ({
   );
 };
 
-function App() {
-  // State declarations
-  const [selectedMajor, setSelectedMajor] = useState("Computer Science");
-  const [completedCourses, setCompletedCourses] = useState({});
+// Main course-tracking component (uses localStorage for major and completed courses)
+function CourseEntry() {
+  const getStoredData = (key, defaultValue) => {
+    const storedData = localStorage.getItem(key);
+    return storedData ? JSON.parse(storedData) : defaultValue;
+  };
+
+  const [selectedMajor, setSelectedMajor] = useState(
+    localStorage.getItem('selectedMajor') || 'Computer Science'
+  );
+  const [completedCourses, setCompletedCourses] = useState(
+    getStoredData('completedCourses', {})
+  );
+
+  // Save to localStorage whenever data changes
+  useEffect(() => {
+    localStorage.setItem('selectedMajor', selectedMajor);
+    localStorage.setItem('completedCourses', JSON.stringify(completedCourses));
+  }, [selectedMajor, completedCourses]);
+
+  const navigate = useNavigate();
+
+  // Elective selections state
   const [selectedHassCourses, setSelectedHassCourses] = useState({});
   const [selectedEthicSocialCourses, setSelectedEthicSocialCourses] = useState({});
   const [selectedSystemElectives, setSelectedSystemElectives] = useState({});
@@ -195,9 +218,8 @@ function App() {
     return isNaN(num) ? 0 : num;
   };
 
-  // Determine if a course uses an elective dropdown—and if so, which configuration to use.
+  // Determine if a course uses an elective dropdown and return its config.
   const getElectiveConfig = (course) => {
-    // Note: we assume the course object has a "section" property when applicable.
     if (
       course.code.includes("Science Elective") ||
       course.code.includes("Humanities Elective")
@@ -304,7 +326,6 @@ function App() {
     return null;
   };
 
-  // Helper: return the credit for a completed course (using elective selections if applicable)
   const getCompletedCredit = (course) => {
     const key = `${selectedMajor}_${course.id}`;
     if (!completedCourses[key]) return 0;
@@ -320,7 +341,6 @@ function App() {
     return parseCredit(course.credit);
   };
 
-  // Compute global completed credits
   const computeTotalCompletedCredits = () => {
     let sum = 0;
     currentMajorData.forEach(section => {
@@ -333,6 +353,27 @@ function App() {
 
   const totalCompleted = computeTotalCompletedCredits();
   const remainingCredits = 120 - totalCompleted;
+
+  const handleSubmit = () => {
+    navigate('/results', { 
+      state: { 
+        selectedMajor, 
+        completedCourses, 
+        majorCourses: majorsData[selectedMajor],
+        selectedHassCourses,
+        selectedEthicSocialCourses,
+        selectedSystemElectives,
+        selectedPhysBioChemElectives,
+        selectedKcsElectives,
+        selectedJcsElectives,
+        selectedLcsElectives,
+        selectedSocialContextElectives,
+        selectedProbStatElectives,
+        selectedBreadthElectives,
+        selectedMNSElectives,
+      } 
+    });
+  };
 
   return (
     <div className="app-container">
@@ -363,7 +404,6 @@ function App() {
         </thead>
         <tbody>
           {currentMajorData.map((section, sectionIndex) => {
-            // Calculate section totals
             const sectionCompleted = section.courses.reduce(
               (acc, course) => acc + getCompletedCredit(course),
               0
@@ -391,7 +431,7 @@ function App() {
                         completed={!!completedCourses[key]}
                         toggleCourse={toggleCourse}
                         options={electiveConfig.options}
-                        selectedCourses={electiveConfig.selectedCourses} // pass in the selected mapping
+                        selectedCourses={electiveConfig.selectedCourses}
                         selectedValue={selectedCode}
                         handleSelect={electiveConfig.onSelect}
                         placeholder={electiveConfig.placeholder}
@@ -428,7 +468,53 @@ function App() {
           })}
         </tbody>
       </table>
+      <button
+        onClick={() =>
+          navigate("/schedule", {})
+        }
+        style={{
+          marginTop: "20px",
+          padding: "10px 20px",
+          backgroundColor: "#28A745",
+          color: "white",
+          border: "none",
+          cursor: "pointer",
+          borderRadius: "5px",
+          fontSize: "16px",
+          marginRight: "10px",
+        }}
+      >
+        Go to Schedule Entry
+      </button>
+      <button 
+        onClick={handleSubmit} 
+        style={{
+          marginTop: '20px',
+          padding: '10px 20px',
+          backgroundColor: '#007BFF',
+          color: 'white',
+          border: 'none',
+          cursor: 'pointer',
+          borderRadius: '5px',
+          fontSize: '16px'
+        }}>
+        Submit Progress
+      </button>
     </div>
+  );
+}
+
+// MAIN APP ROUTE STRUCTURE
+function App() {
+  return (
+    <Router>
+      <ScrollToTop />
+      <Routes>
+        <Route path="/" element={<CourseEntry />} />
+        <Route path="/results" element={<ResultsPage />} />
+        <Route path="/schedule" element={<ScheduleEntry />} />
+      </Routes>
+    </Router>
   );
 }
 
