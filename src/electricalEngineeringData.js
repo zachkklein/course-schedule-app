@@ -3,7 +3,7 @@
 const electricalEngineeringData = [
     {
       section: "Mathematics & Natural Sciences",
-      subtotal: "≥33",
+      subtotal: "33",
       courses: [
         { id: "MATH32", code: "MATH 32", title: "Calculus I", credit: 4 },
         { id: "MATH34", code: "MATH 34", title: "Calculus II", credit: 4 },
@@ -36,7 +36,7 @@ const electricalEngineeringData = [
     },
     {
       section: "HASS",
-      subtotal: "≥24",
+      subtotal: "24",
       courses: [
         { id: "ENG1", code: "ENG 1", title: "Expos. Writing or ENG 3", credit: 3 },
         { id: "HASS_Hum", code: "Humanities Elective (b)", title: "", credit: "≥3" },

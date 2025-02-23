@@ -28,7 +28,7 @@ const environmentalEngineeringData = [
     },
     {
       section: "Communication",
-      subtotal: "12-13",
+      subtotal: "13",
       courses: [
         { id: "ENG1", code: "ENG 1", title: "Expos. Writing or ENG 3", credit: 3 },
         { id: "EM51", code: "EM 51", title: "Engineering Management", credit: 3 },
@@ -38,7 +38,7 @@ const environmentalEngineeringData = [
     },
     {
       section: "HASS",
-      subtotal: "≥9",
+      subtotal: "9",
       courses: [
         { id: "Humanities_Elec_b", code: "Humanities Elective (b)", title: "", credit: "≥3" },
         { id: "Social_Science_Elec_c", code: "Social Science Elective (c)", title: "", credit: "≥3" },
@@ -78,7 +78,7 @@ const environmentalEngineeringData = [
     },
     {
       section: "Technical Elective",
-      subtotal: "≥9",
+      subtotal: "9",
       courses: [
         {
           id: "Tech_Electives",

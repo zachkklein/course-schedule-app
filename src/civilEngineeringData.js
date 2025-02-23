@@ -34,7 +34,7 @@ const civilEngineeringData = [
     },
     {
       section: "HASS",
-      subtotal: "≥9",
+      subtotal: "9",
       courses: [
         { id: "Humanities_Elec_a", code: "Humanities Elective (a)", title: "", credit: "≥3" },
         { id: "Social_Science_Elec_b", code: "Social Science Elective (b)", title: "", credit: "≥3" },
@@ -88,7 +88,7 @@ const civilEngineeringData = [
     },
     {
       section: "Technical Elective",
-      subtotal: "≥9",
+      subtotal: "9",
       courses: [
         {
           id: "Tech_Electives",

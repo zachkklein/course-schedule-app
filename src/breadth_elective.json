@@ -5173,5 +5173,20 @@
         "code": "WGSS-0185",
         "title": "Special Topics Seminar in Women's, Gender, and Sexuality Studies - Violence, Pleasure, and Value(s)",
         "credit": null
-    }
+    },
+    {
+        "code": "PRE-0000",
+        "title": "3 Credit Prerequisite Course",
+        "credit": 3
+      },
+      {
+        "code": "PRE-0001",
+        "title": "4 Credit Prerequisite Course",
+        "credit": 4
+      },
+      {
+        "code": "PRE-0002",
+        "title": "5 Credit Prerequisite Course",
+        "credit": 5
+      }
 ]

@@ -3,7 +3,7 @@
 const architecturalStudiesData = [
     {
       section: "Mathematics & Natural Sciences",
-      subtotal: "≥30",
+      subtotal: "30",
       courses: [
         { id: "MATH32", code: "MATH 32", title: "Calculus I", credit: 4 },
         { id: "MATH34", code: "MATH 34", title: "Calculus II", credit: 4 },
@@ -15,7 +15,7 @@ const architecturalStudiesData = [
     },
     {
       section: "Communication",
-      subtotal: "12-14",
+      subtotal: "14",
       courses: [
         { id: "ENG1", code: "ENG 1", title: "Expos. Writing or ENG 3", credit: 3 },
         { id: "VISUAL_TT", code: "Visual Thinking Elective (b)", title: "", credit: "2-4" },
@@ -30,7 +30,7 @@ const architecturalStudiesData = [
     },
     {
       section: "Program Electives",
-      subtotal: "≥18",
+      subtotal: "18",
       courses: [
         { id: "Humanities_Elec_c", code: "Humanities Elective (c)", title: "", credit: "≥3" },
         { id: "Social_Science_Elec_d", code: "Social Science Elective (d)", title: "", credit: "≥3" },
@@ -38,7 +38,7 @@ const architecturalStudiesData = [
           id: "Program_Electives_e", 
           code: "Program Electives (e)", 
           title: "List additional courses to reach ≥12 SHU", 
-          credit: "≥12" 
+          credit: "12" 
         },
       ],
     },
@@ -64,7 +64,7 @@ const architecturalStudiesData = [
     },
     {
       section: "Art & Architecture",
-      subtotal: "≥31",
+      subtotal: "31",
       courses: [
         { id: "HAA8", code: "HAA 8", title: "Intro. to Architecture", credit: 3 },
         { id: "HAA96", code: "HAA 96", title: "Design: Arch.", credit: 5 },
@@ -74,7 +74,7 @@ const architecturalStudiesData = [
           id: "Art_Arch_Electives", 
           code: "Art & Architecture Electives", 
           title: "List additional courses (≥15 SHU required)", 
-          credit: "≥15" 
+          credit: "15" 
         },
       ],
     },

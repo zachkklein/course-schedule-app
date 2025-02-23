@@ -3,7 +3,7 @@
 const humanFactorsEngineeringData = [
     {
       section: "Mathematics & Natural Sciences",
-      subtotal: "≥30",
+      subtotal: "30",
       courses: [
         { id: "MATH32", code: "MATH 32", title: "Calculus I", credit: 4 },
         { id: "MATH34", code: "MATH 34", title: "Calculus II", credit: 4 },
@@ -17,7 +17,7 @@ const humanFactorsEngineeringData = [
     },
     {
       section: "Psychology",
-      subtotal: "15-19",
+      subtotal: "19",
       courses: [
         { id: "PSY1", code: "PSY 1", title: "Introduction to Psychology", credit: 3 },
         { id: "ENP53", code: "ENP 53", title: "Engineering Psychology", credit: 3 },
@@ -28,7 +28,7 @@ const humanFactorsEngineeringData = [
     },
     {
       section: "HASS",
-      subtotal: "≥24",
+      subtotal: "24",
       courses: [
         { id: "ENG1", code: "ENG 1", title: "Expos. Writing or ENG 3", credit: 3 },
         { id: "EM52", code: "EM 52", title: "Tech. & Managerial Com.", credit: 3 },
@@ -45,7 +45,7 @@ const humanFactorsEngineeringData = [
     },
     {
       section: "Human Factors Engineering",
-      subtotal: "21-23",
+      subtotal: "23",
       courses: [
         { id: "ENP64", code: "ENP 64", title: "Methods in HFE", credit: 3 },
         { id: "ENP161", code: "ENP 161", title: "HFE Product Design", credit: 3 },
@@ -68,7 +68,7 @@ const humanFactorsEngineeringData = [
     },
     {
       section: "Domain Focus",
-      subtotal: "≥12",
+      subtotal: "12",
       courses: [
         { id: "Domain_Elec_h1", code: "Domain Elective (h)", title: "", credit: "3-5" },
         { id: "Domain_Elec_h2", code: "Domain Elective (h)", title: "", credit: "3-5" },
