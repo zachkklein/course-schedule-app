@@ -3,7 +3,7 @@
 const dataScienceData = [
     {
       section: "Mathematics & Natural Sciences",
-      subtotal: "≥42",
+      subtotal: "42",
       courses: [
         { id: "MATH32", code: "MATH 32", title: "Calculus I", credit: 4 },
         {
@@ -65,7 +65,7 @@ const dataScienceData = [
     },
     {
       section: "HASS",
-      subtotal: "≥24",
+      subtotal: "24",
       courses: [
         { id: "ENG1", code: "ENG 1", title: "Expos. Writing or ENG 3", credit: 3 },
         {
@@ -90,7 +90,7 @@ const dataScienceData = [
     },
     {
       section: "Engineering",
-      subtotal: "≥6",
+      subtotal: "6",
       courses: [
         { id: "EN1", code: "EN 1", title: "Applications in Eng.", credit: 3 },
         {
@@ -103,7 +103,7 @@ const dataScienceData = [
     },
     {
       section: "Data Science Core",
-      subtotal: "≥40",
+      subtotal: "40",
       courses: [
         { id: "CS11", code: "CS 11", title: "Intro. Comp. Sci.", credit: 4 },
         { id: "CS15", code: "CS 15", title: "Data Structures", credit: 4 },
@@ -168,7 +168,7 @@ const dataScienceData = [
     },
     {
       section: "Breadth Electives",
-      subtotal: "≥9",
+      subtotal: "9",
       courses: [
         {
           id: "Breadth",
@@ -181,7 +181,7 @@ const dataScienceData = [
     },
     {
       section: "Additional Courses",
-      subtotal: "≥0",
+      subtotal: "0",
       courses: [
         {
           id: "Additional",

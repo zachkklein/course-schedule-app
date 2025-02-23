@@ -3,7 +3,7 @@
 const biomedicalEngineeringData = [
     {
       section: "Mathematics & Natural Sciences",
-      subtotal: "≥39",
+      subtotal: "39",
       courses: [
         { id: "MATH32", code: "MATH 32", title: "Calculus I", credit: 4 },
         { id: "MATH34", code: "MATH 34", title: "Calculus II", credit: 4 },
@@ -35,7 +35,7 @@ const biomedicalEngineeringData = [
     },
     {
       section: "HASS Electives",
-      subtotal: "≥17",
+      subtotal: "17",
       courses: [
         { id: "HASS_Humanities", code: "Humanities Elective", title: "Humanities Elective (b)", credit: "≥3" },
         { id: "HASS_Social", code: "Social Science Elective", title: "Social Science Elective (c)", credit: "≥3" },
@@ -66,7 +66,7 @@ const biomedicalEngineeringData = [
     },
     {
       section: "Technical Electives",
-      subtotal: "≥13",
+      subtotal: "13",
       courses: [
         { id: "TE1", code: "Technical Elective (e)", title: "", credit: "3-4" },
         { id: "TE2", code: "Technical Elective (e) or (f)", title: "", credit: "3-4" },
@@ -77,7 +77,7 @@ const biomedicalEngineeringData = [
     },
     {
       section: "Capstone Project (A, B or C)",
-      subtotal: "≥5",
+      subtotal: "5",
       courses: [
         { id: "CAP_A1", code: "A BME 7", title: "Senior Capstone I", credit: 3 },
         { id: "CAP_A2", code: "BME 8", title: "Senior Capstone II", credit: 3 },

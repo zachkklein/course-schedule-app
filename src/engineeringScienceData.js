@@ -3,7 +3,7 @@
 const engineeringScienceData = [
     {
       section: "Mathematics",
-      subtotal: "≥15",
+      subtotal: "15",
       courses: [
         { id: "MATH32", code: "MATH 32", title: "Calculus I", credit: 4 },
         { id: "MATH34", code: "MATH 34", title: "Calculus II", credit: 4 },
@@ -13,7 +13,7 @@ const engineeringScienceData = [
     },
     {
       section: "Mathematics & Nat Sci Electives",
-      subtotal: "≥30",
+      subtotal: "30",
       courses: [
         { 
           id: "MathNatSciElectives", 
@@ -25,7 +25,7 @@ const engineeringScienceData = [
     },
     {
       section: "HASS",
-      subtotal: "≥24",
+      subtotal: "24",
       courses: [
         { id: "ENG1", code: "ENG 1", title: "Expos. Writing or ENG 3", credit: 3 },
         { id: "Humanities_Elec_c", code: "Humanities Elective (c)", title: "", credit: "≥3" },
@@ -34,7 +34,7 @@ const engineeringScienceData = [
     },
     {
       section: "Engineering & Computing",
-      subtotal: "≥30",
+      subtotal: "30",
       courses: [
         { id: "EN1_EC", code: "EN 1", title: "Applications in Eng.", credit: 3 },
         { 
