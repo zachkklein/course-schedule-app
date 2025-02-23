@@ -4,6 +4,10 @@
 Project for [JumboHack](https://jumbohack.org/)
 
 
+
+https://github.com/user-attachments/assets/09de9a83-ed18-4e6b-aa8b-51a85c410d8e
+
+
 ### Our Project
 
 An improved course audit for Tufts students. Users will be able to see their degree progress in a more streamlined and simpiler way.
