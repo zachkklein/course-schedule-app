@@ -1,4 +1,4 @@
-# Movie Recommender
+# TITLE
  <!-- [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE) -->
 
 Project for [JumboHack](https://jumbohack.org/)
