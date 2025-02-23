@@ -19,6 +19,7 @@ a hopeful design for the future which includes all Majors.
  * React framework
  * Figma for design
  * Javascript
+ * Python for web scraping
  * GitHub for version control
  * Vercel for deployment
 
