@@ -1,5 +1,10 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Select, { components } from 'react-select';
+import { BrowserRouter as Router, Route, Routes, useNavigate } from 'react-router-dom';
+import ResultsPage from './resultsPage';
+import ScrollToTop from './switchScroll';
+import ScheduleEntry from './ScheduleEntry';
+
 
 // Import each major’s data from its own file.
 import biomedicalEngineeringData from './biomedicalEngineeringData';
@@ -50,6 +55,8 @@ const majorsData = {
   "Mechanical Engineering": mechanicalEngineeringData,
   "No Major": noMajorData,
 };
+
+
 
 // Prepare options for react-select for each elective type.
 const hassOptions = extractedCourses.map(course => ({
@@ -148,9 +155,33 @@ const SingleValue = (props) => (
   </components.SingleValue>
 );
 
-function App() {
-  const [selectedMajor, setSelectedMajor] = useState("Computer Science");
-  const [completedCourses, setCompletedCourses] = useState({});
+function CourseEntry() {
+
+  const getStoredData = (key, defaultValue) => {
+    const storedData = localStorage.getItem(key);
+    return storedData ? JSON.parse(storedData) : defaultValue;
+  };
+
+  const [selectedMajor, setSelectedMajor] = useState(
+    localStorage.getItem('selectedMajor') || 'Computer Science'
+  );
+
+  const [completedCourses, setCompletedCourses] = useState(
+    getStoredData('completedCourses', {})
+  );
+
+  // Save to localStorage whenever data changes
+  useEffect(() => {
+    localStorage.setItem('selectedMajor', selectedMajor);
+    localStorage.setItem('completedCourses', JSON.stringify(completedCourses));
+  }, [selectedMajor, completedCourses]);
+
+
+  const navigate = useNavigate();
+
+
+  //const [selectedMajor, setSelectedMajor] = useState("Computer Science");
+  //const [completedCourses, setCompletedCourses] = useState({});
   const [selectedHassCourses, setSelectedHassCourses] = useState({});
   const [selectedEthicSocialCourses, setSelectedEthicSocialCourses] = useState({});
   const [selectedSystemElectives, setSelectedSystemElectives] = useState({});
@@ -233,6 +264,10 @@ function App() {
     setSelectedBreadthElectives({});
     setSelectedMNSElectives({});
   };
+  const submitButton = () => {
+    navigate('/results', { state: { selectedMajor, completedCourses } });
+  }
+  
 
   const currentMajorData = majorsData[selectedMajor];
 
@@ -331,6 +366,27 @@ function App() {
 
   const totalCompleted = computeTotalCompletedCredits();
   const remainingCredits = 120 - totalCompleted;
+  
+  const handleSubmit = () => {
+    navigate('/results', { 
+      state: { 
+        selectedMajor, 
+        completedCourses, 
+        majorCourses: majorsData[selectedMajor],
+        selectedHassCourses,
+        selectedEthicSocialCourses,
+        selectedSystemElectives,
+        selectedPhysBioChemElectives,
+        selectedKcsElectives,
+        selectedJcsElectives,
+        selectedLcsElectives,
+        selectedSocialContextElectives,
+        selectedProbStatElectives,
+        selectedBreadthElectives,
+        selectedMNSElectives,
+      } 
+    });
+  };
 
   return (
     <div style={{ padding: '20px' }}>
@@ -865,7 +921,61 @@ function App() {
           })}
         </tbody>
       </table>
+        {/* Add the Schedule Entry Button */}
+        <button
+  onClick={() =>
+    navigate("/schedule", {
+    })
+  }
+  style={{
+    marginTop: "20px",
+    padding: "10px 20px",
+    backgroundColor: "#28A745",
+    color: "white",
+    border: "none",
+    cursor: "pointer",
+    borderRadius: "5px",
+    fontSize: "16px",
+    marginRight: "10px",
+  }}
+>
+  Go to Schedule Entry
+</button>
+
+      {/* Submit Button */}
+      <button 
+        onClick={handleSubmit} 
+        style={{
+          marginTop: '20px',
+          padding: '10px 20px',
+          backgroundColor: '#007BFF',
+          color: 'white',
+          border: 'none',
+          cursor: 'pointer',
+          borderRadius: '5px',
+          fontSize: '16px'
+        }}>
+        Submit Progress
+
+      </button>
     </div>
+  );
+}
+
+
+
+// MAIN APP ROUTE STRUCTURE
+
+function App() {
+  return (
+      <Router>
+        <ScrollToTop />
+        <Routes>
+          <Route path="/" element={<CourseEntry />} />
+          <Route path="/results" element={<ResultsPage />} />
+          <Route path="/schedule" element={<ScheduleEntry />} />
+        </Routes>
+      </Router>
   );
 }
 
