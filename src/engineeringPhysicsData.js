@@ -3,7 +3,7 @@
 const engineeringPhysicsData = [
     {
       section: "Mathematics & Natural Sciences",
-      subtotal: "≥24",
+      subtotal: "24",
       courses: [
         { id: "MATH32", code: "MATH 32", title: "Calculus I", credit: 4 },
         { id: "MATH34", code: "MATH 34", title: "Calculus II", credit: 4 },
@@ -21,7 +21,7 @@ const engineeringPhysicsData = [
     },
     {
       section: "Physics",
-      subtotal: "≥34",
+      subtotal: "34",
       courses: [
         { id: "PHY11", code: "PHY 11", title: "Gen. Physics I w/ lab", credit: 5 },
         { id: "PHY12", code: "PHY 12", title: "Gen. Physics II w/ lab", credit: 5 },
@@ -51,7 +51,7 @@ const engineeringPhysicsData = [
     },
     {
       section: "HASS",
-      subtotal: "≥24",
+      subtotal: "24",
       courses: [
         { id: "ENG1", code: "ENG 1", title: "Expos. Writing or ENG 3", credit: 3 },
         {
@@ -70,7 +70,7 @@ const engineeringPhysicsData = [
     },
     {
       section: "Engineering & Computing",
-      subtotal: "≥30",
+      subtotal: "30",
       courses: [
         { id: "EN1_EP", code: "EN 1", title: "Applications in Eng.", credit: 3 },
         {
@@ -91,7 +91,7 @@ const engineeringPhysicsData = [
     },
     {
       section: "Technical Electives",
-      subtotal: "≥10",
+      subtotal: "10",
       courses: [
         { id: "Tech_Elec_h1", code: "Technical Elective (h)", title: "", credit: "≥2" },
         { id: "Tech_Elec_h2", code: "Technical Elective (h)", title: "", credit: "≥2" },

@@ -17,6 +17,7 @@ import breadthElectiveData from "./breadth_elective.json";
 import mnsElectiveData from "./mns_electives.json";
 
 import computerScienceData from "./computerScienceData";
+import "./Schedule.css";
 
 // **Helper Function to Add Source Field**
 const mapCoursesWithSource = (courses, source) =>
@@ -59,27 +60,8 @@ const initialSchedule = {
 // **Fixed Sliders Component**
 const FixedSliders = ({ creditCounts }) => {
   return (
-    <div
-      style={{
-        position: "fixed",
-        top: "0",
-        left: "0",
-        width: "100%",
-        backgroundColor: "#fff",
-        padding: "10px 10px",
-        zIndex: "1000",
-        boxShadow: "0px 2px 5px rgba(0,0,0,0.1)",
-      }}
-    >
-      <div
-        style={{
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
-          gap: "10px",
-          padding: "5px 10px",
-        }}
-      >
+    <div className="fixed-sliders">
+      <div className="slider-inner">
         {[
           { label: "HASS", value: creditCounts.HASS, max: 24 },
           { label: "Eng", value: creditCounts.Engineering, max: 6 },
@@ -87,7 +69,7 @@ const FixedSliders = ({ creditCounts }) => {
           { label: "MNS", value: creditCounts.MathematicsAndScience, max: 34 },
           { label: "CS Core", value: creditCounts.ComputerScienceCore, max: 49 },
         ].map((item, index) => (
-          <div key={index} style={{ textAlign: "center", minWidth: "150px" }}>
+          <div key={index} className="slider-item">
             <strong>{item.label}</strong>
             <FractionSlider numerator={item.value} denominator={item.max} />
           </div>
@@ -115,7 +97,8 @@ const ScheduleEntry = () => {
 
     setSchedule((prevSchedule) => {
       const updatedSchedule = { ...prevSchedule };
-      updatedSchedule[year][term][index] = selectedOption.value ? selectedOption : null;
+      updatedSchedule[year][term][index] =
+        selectedOption && selectedOption.value ? selectedOption : null;
       return updatedSchedule;
     });
   };
@@ -165,62 +148,58 @@ const ScheduleEntry = () => {
   }, [schedule]);
 
   return (
-    <div style={{ paddingTop: "80px", padding: "20px" }}>
+    <>
       <FixedSliders creditCounts={creditCounts} />
-      <h1>Course Schedule Planner</h1>
-      <h3>Plan your semesters while tracking progress towards your degree!</h3>
+      <div className="app-container" style={{ paddingTop: "80px" }}>
+        <h1>Course Schedule Planner</h1>
+        <h3>Plan your semesters while tracking progress towards your degree!</h3>
 
-      <div style={{ maxWidth: "900px", margin: "0 auto" }}>
-        <table border="1" cellPadding="5" style={{ width: "100%", borderCollapse: "collapse", tableLayout: "fixed" }}>
-          <thead>
-            <tr style={{ backgroundColor: "#f0f0f0" }}>
-            <th style={{ width: "20px" }}>Year</th> 
-            <th style={{ width: "100px" }}>Fall</th> 
-            <th style={{ width: "100px" }}>Spring</th> 
-
-            </tr>
-          </thead>
-          <tbody>
-            {Object.entries(schedule).map(([year, terms]) => (
-              <tr key={year}>
-                <td><strong>{year}</strong></td>
-                {["Fall", "Spring"].map((term) => (
-                  <td key={term} style={{ textAlign: "center", padding: "30px" }}>
-                    {terms[term].map((_, index) => (
-                      <Select
-                        key={index}
-                        options={allCourses}
-                        value={terms[term][index] || null}
-                        onChange={(option) => handleCourseSelect(year, term, index, option)}
-                        getOptionLabel={(e) => e.displayLabel}
-                        formatOptionLabel={(e) => `${e.value} - ${e.label.split(" - ")[1]}`}
-                        placeholder="Choose a course"
-                      />
-                    ))}
-                  </td>
-                ))}
+        <div className="schedule-table-container">
+          <table className="course-table">
+            <thead>
+              <tr>
+                <th style={{ width: "20%" }}>Year</th>
+                <th style={{ width: "40%" }}>Fall</th>
+                <th style={{ width: "40%" }}>Spring</th>
               </tr>
-            ))}
-          </tbody>
-        </table>
+            </thead>
+            <tbody>
+              {Object.entries(schedule).map(([year, terms]) => (
+                <tr key={year}>
+                  <td>
+                    <strong>{year}</strong>
+                  </td>
+                  {["Fall", "Spring"].map((term) => (
+                    <td key={term} className="term-cell">
+                      {terms[term].map((_, index) => (
+                        <Select
+                          key={index}
+                          options={allCourses}
+                          value={terms[term][index] || "Choose a course"}
+                          onChange={(option) => handleCourseSelect(year, term, index, option)}
+                          getOptionLabel={(e) => e.displayLabel}
+                          formatOptionLabel={(e) =>
+                            `${e.value} - ${e.label.split(" - ")[1]}`
+                          }
+                          placeholder="Choose a course"
+                        />
+                      ))}
+                    </td>
+                  ))}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
         {/* Back to Home Button */}
-        <div style={{ textAlign: "center", marginTop: "30px" }}>
-          <button
-            onClick={() => navigate("/")}
-            style={{
-              backgroundColor: "#0288d1",
-              color: "white",
-              padding: "12px 20px",
-              fontSize: "1rem",
-              borderRadius: "6px",
-              cursor: "pointer",
-            }}
-          >
+        <div className="back-button-container">
+          <button onClick={() => navigate("/")} className="back-button">
             Back to Home
           </button>
         </div>
       </div>
-    </div>
+    </>
   );
 };
+
 export default ScheduleEntry;

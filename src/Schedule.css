@@ -1,0 +1,150 @@
+/* Main page styling */
+body {
+    background-color: #e3f2fd; /* background */
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #2c3e50;
+  }
+  
+  /* Container */
+  .app-container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: 1px solid #bbdefb;
+  }
+  
+  /* Headings */
+  h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    color: #1565c0; 
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #1e88e5;
+  }
+
+  h3 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #1e88e5;
+  }
+  
+  /* Schedule table container */
+  .schedule-table-container {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  /* Table Styles */
+  .course-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    table-layout: fixed;
+  }
+  
+  .course-table th,
+  .course-table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #90caf9;
+  }
+  
+  .course-table th {
+    background-color: #64b5f6;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .course-table tr:hover {
+    background-color: #bbdefb;
+  }
+  
+  /* Term cell styling (centers the selects) */
+  .term-cell {
+    text-align: center;
+    vertical-align: top;
+  }
+  
+  /* Fixed Sliders Styling */
+  .fixed-sliders {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+    padding: 10px;
+    z-index: 1000;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .slider-inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 5px 10px;
+  }
+  
+  .slider-item {
+    text-align: center;
+    min-width: 150px;
+  }
+  
+  /* Back button container */
+  .back-button-container {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  /* Back button styling */
+  .back-button {
+    background-color: #0288d1;
+    color: white;
+    padding: 12px 20px;
+    font-size: 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .back-button:hover {
+    background-color: #0277bd;
+  }
+  
+  /* React-Select Overrides */
+  .css-yk16xz-control,
+  .css-1pahdxg-control {
+    border-radius: 6px;
+    border: 1px solid #64b5f6;
+    min-height: 40px;
+    background-color: #e3f2fd;
+    color: #1565c0;
+  }
+  
+  .css-1okebmr-indicatorSeparator {
+    display: none;
+  }
+  
+  /* Dropdown option colors */
+  .css-26l3qy-menu {
+    background-color: #e3f2fd;
+  }
+  
+  .css-1n7v3ny-option {
+    background-color: #bbdefb;
+    color: #0d47a1;
+  }
+  
+  .css-1n7v3ny-option:hover {
+    background-color: #90caf9;
+  }
+  

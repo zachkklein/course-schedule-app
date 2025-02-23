@@ -2,8 +2,9 @@ import React, { useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import Select from 'react-select';
 import FractionSlider from "./slider"; // Ensure correct path
+import './results.css'; // Import external CSS
 
-// If not already imported, import your elective options here.
+// Import elective options
 import extractedCourses from './extracted_courses.json';
 import ethicSocialCourses from './ethic_social.json';
 import systemElectivesData from './system_electives.json';
@@ -14,10 +15,9 @@ import jCSElectiveData from './j_cs_electives.json';
 import lCSElectiveData from './l_cs_electives.json';
 import probStatData from './prob_stat.json';
 import breadthElectiveData from './breadth_elective.json';
-// New: Import the MNS Elective data.
 import mnsElectiveData from './mns_electives.json';
 
-// Build options arrays (adjust formatting as needed)
+// Build options arrays
 const hassOptions = extractedCourses.map(course => ({
   value: course.code,
   label: `${course.code} - ${course.title}`,
@@ -74,10 +74,9 @@ const mnsElectiveOptions = mnsElectiveData.map(course => ({
 }));
 
 // A reusable dropdown component for a requirement.
-// Updated to always show the dropdown without a toggle button.
 function RequirementDropdown({ label, options, selectedValue, onSelect }) {
   return (
-    <div style={{ marginTop: '5px' }}>
+    <div className="requirement-dropdown">
       <Select
         options={options}
         value={options.find(opt => opt.value === selectedValue)}
@@ -88,9 +87,8 @@ function RequirementDropdown({ label, options, selectedValue, onSelect }) {
   );
 }
 
-// Helper function to decide which options array to use based on the course requirement.
+// Helper function to choose the correct options array based on a course's requirement.
 function getOptionsForCourse(course) {
-  // Check based on course code and/or section.
   if (course.section === "HASS") {
     if (course.code.includes("Elective") && course.code !== "Ethics & Social Context Elec." && !course.code.includes("Social Cont")) {
       return hassOptions;
@@ -124,82 +122,15 @@ function getOptionsForCourse(course) {
   if (course.code.includes("MNS Elective")) {
     return mnsElectiveOptions;
   }
-  // Default: return an empty array if no matching requirement found.
+  // Default: return an empty array if no matching requirement is found.
   return [];
 }
-
-const styles = {
-  container: {
-    padding: '20px',
-    fontFamily: '"Verdana", sans-serif',
-    backgroundColor: '#E6F7FF', // Soft light blue background
-    minHeight: '100vh',
-  },
-  header: {
-    color: '#0a1f44', // Navy blue
-    textAlign: 'center',
-    marginBottom: '20px',
-  },
-  section: {
-    backgroundColor: 'white',
-    padding: '15px',
-    borderRadius: '12px',
-    boxShadow: '0px 4px 10px rgba(0, 0, 0, 0.1)',
-    marginBottom: '20px',
-    border: '2px solid #0a1f44', // Navy blue border
-  },
-  sectionHeader: {
-    backgroundColor: '#B3C7E6', // Light complementary blue
-    padding: '12px',
-    borderRadius: '10px',
-    display: 'flex',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    flexWrap: 'wrap',
-  },
-  courseList: {
-    listStyleType: 'none',
-    padding: '10px',
-  },
-  finishedCourse: {
-    marginBottom: '5px',
-    color: '#6c757d',
-    fontWeight: 'bold',
-  },
-  remainingLabel: {
-    marginBottom: '10px',
-    fontWeight: 'bold',
-    color: '#0a1f44', // Navy blue
-  },
-  remainingCourse: {
-    marginBottom: '15px',
-  },
-  separator: {
-    margin: '10px 0',
-    borderBottom: '1px solid #bbb',
-  },
-  button: {
-    marginTop: '20px',
-    padding: '12px 24px',
-    backgroundColor: '#472e02 ', // Brown background
-    color: 'white',
-    border: 'none',
-    cursor: 'pointer',
-    borderRadius: '8px',
-    fontSize: '16px',
-    fontWeight: 'bold',
-    transition: 'background-color 0.3s',
-  },
-  buttonHover: {
-    backgroundColor: '#774e05 ', // Lighter brown on hover
-  },
-};
 
 function ResultsPage() {
   const location = useLocation();
   const navigate = useNavigate();
 
-  // Retrieve the passed data from CourseEntry
+  // Retrieve passed data from the previous page.
   const { 
     selectedMajor, 
     completedCourses, 
@@ -214,29 +145,25 @@ function ResultsPage() {
     setSelectedRequirements(prev => ({ ...prev, [courseKey]: courseCode }));
   };
 
-  // Handle case where no data is passed
+  // If no data is passed, inform the user.
   if (!selectedMajor || !completedCourses || !majorCourses) {
     return (
-      <div style={styles.container}>
-        <h1 style={styles.header}>Results Page</h1>
+      <div className="app-container">
+        <h1>Results Page</h1>
         <p>No course selection data found. Please go back and enter your courses.</p>
-        <button
-          onClick={() => navigate('/')}
-          style={styles.button}
-          onMouseEnter={(e) => (e.target.style.backgroundColor = styles.buttonHover.backgroundColor)}
-          onMouseLeave={(e) => (e.target.style.backgroundColor = styles.button.backgroundColor)}
-        >
-          Go Back
-        </button>
+        <div className="back-button-container">
+          <button onClick={() => navigate('/')} className="back-button">
+            Go Back
+          </button>
+        </div>
       </div>
     );
   }
 
   return (
-    <div style={styles.container}>
-      <h1 style={styles.header}> {selectedMajor} Degree Progress </h1>
+    <div className="app-container">
+      <h1>{selectedMajor} Degree Progress</h1>
 
-      {/* Loop through each section */}
       {majorCourses.map((section, sectionIndex) => {
         const totalCourses = section.courses.length;
         const completedCount = section.courses.reduce((count, course) => {
@@ -248,39 +175,41 @@ function ResultsPage() {
         const remainingCourses = section.courses.filter(course => !completedCourses[`${selectedMajor}_${course.id}`]);
 
         return (
-          <div key={sectionIndex} style={styles.section}>
-            {/* Section Header with Completion Count and FractionSlider */}
-            <div style={styles.sectionHeader}>
-              <h2 style={{ margin: 0 }}>{section.section}</h2>
-              <div style={{ width: '180px', marginLeft: '10px' }}>
+          <div key={sectionIndex} className="results-section">
+            <div className="results-section-header">
+              <h2>{section.section}</h2>
+              <div className="slider-container">
                 <FractionSlider numerator={completedCount} denominator={totalCourses} speed={2000} />
               </div>
             </div>
 
-            <ul style={styles.courseList}>
-              {/* Finished Courses - Greyed Out */}
+            <ul className="results-course-list">
+              {finishedCourses.length > 0 && (
+                <h3 className="results-remaining-label">Completed Courses:</h3>
+              )}
               {finishedCourses.map(course => {
                 const key = `${selectedMajor}_${course.id}`;
                 return (
-                  <li key={key} style={styles.finishedCourse}>
+                  
+                  <li key={key} className="results-finished-course">
                     {course.code} - {course.title}
                   </li>
                 );
               })}
 
-              {/* Separator */}
-              {finishedCourses.length > 0 && remainingCourses.length > 0 && <li style={styles.separator}></li>}
+              {finishedCourses.length > 0 && remainingCourses.length > 0 && (
+                <li className="results-separator"></li>
+              )}
 
-              {/* Remaining Courses Label */}
-              {remainingCourses.length > 0 && <h3 style={styles.remainingLabel}>Remaining Requirements:</h3>}
+              {remainingCourses.length > 0 && (
+                <h3 className="results-remaining-label">Remaining Requirements:</h3>
+              )}
 
-              {/* Remaining Courses with always-visible dropdowns */}
               {remainingCourses.map(course => {
                 const key = `${selectedMajor}_${course.id}`;
-                // Get the options for this particular requirement based on its course code/section.
                 const optionsForCourse = getOptionsForCourse({ ...course, section: section.section });
                 return (
-                  <li key={key} style={styles.remainingCourse}>
+                  <li key={key} className="results-remaining-course">
                     <div>
                       {course.code} - {course.title}
                     </div>
@@ -300,15 +229,11 @@ function ResultsPage() {
         );
       })}
 
-      {/* Back Button */}
-      <button
-        onClick={() => navigate('/')}
-        style={styles.button}
-        onMouseEnter={(e) => (e.target.style.backgroundColor = styles.buttonHover.backgroundColor)}
-        onMouseLeave={(e) => (e.target.style.backgroundColor = styles.button.backgroundColor)}
-      >
-        Go Back and Edit
-      </button>
+      <div className="back-button-container">
+        <button onClick={() => navigate('/')} className="back-button">
+          Go Back and Edit
+        </button>
+      </div>
     </div>
   );
 }

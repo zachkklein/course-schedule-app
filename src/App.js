@@ -468,38 +468,20 @@ function CourseEntry() {
           })}
         </tbody>
       </table>
-      <button
-        onClick={() =>
-          navigate("/schedule", {})
-        }
-        style={{
-          marginTop: "20px",
-          padding: "10px 20px",
-          backgroundColor: "#28A745",
-          color: "white",
-          border: "none",
-          cursor: "pointer",
-          borderRadius: "5px",
-          fontSize: "16px",
-          marginRight: "10px",
-        }}
-      >
-        Go to Schedule Entry
-      </button>
-      <button 
-        onClick={handleSubmit} 
-        style={{
-          marginTop: '20px',
-          padding: '10px 20px',
-          backgroundColor: '#007BFF',
-          color: 'white',
-          border: 'none',
-          cursor: 'pointer',
-          borderRadius: '5px',
-          fontSize: '16px'
-        }}>
-        Submit Progress
-      </button>
+      <div className="button-container">
+  <button
+    onClick={() => navigate("/schedule", {})}
+    className="button button-schedule"
+  >
+    Go to Schedule Entry
+  </button>
+  <button 
+    onClick={handleSubmit} 
+    className="button button-submit"
+  >
+    Submit Progress
+  </button>
+</div>
     </div>
   );
 }

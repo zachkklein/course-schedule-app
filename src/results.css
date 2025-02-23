@@ -1,0 +1,98 @@
+/* Container styling */
+.results-container {
+    padding: 20px;
+    font-family: "Verdana", sans-serif;
+    background-color: #E6F7FF; /* Soft light blue background */
+    min-height: 100vh;
+  }
+  
+  /* Header styling */
+  .results-header {
+    color: #0a1f44; /* Navy blue */
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Section styling */
+  .results-section {
+    background-color: white;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    border: 2px solid #0a1f44; /* Navy blue border */
+  }
+  
+  /* Section header styling */
+  .results-section-header {
+    background-color: #B3C7E6; /* Light complementary blue */
+    padding: 12px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  /* Container for FractionSlider inside section header */
+  .slider-container {
+    width: 180px;
+    margin-left: 10px;
+  }
+  
+  /* Course list styling */
+  .results-course-list {
+    list-style-type: none;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  /* Finished courses (greyed out) */
+  .results-finished-course {
+    margin-bottom: 5px;
+    color: #6c757d;
+    font-weight: bold;
+  }
+  
+  /* Remaining requirements label */
+  .results-remaining-label {
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #0a1f44; /* Navy blue */
+  }
+  
+  /* Remaining course styling */
+  .results-remaining-course {
+    margin-bottom: 15px;
+  }
+  
+  /* Separator styling */
+  .results-separator {
+    margin: 10px 0;
+    border-bottom: 1px solid #bbb;
+  }
+  
+  /* Button styling */
+  .results-button {
+    margin-top: 20px;
+    padding: 12px 24px;
+    background-color: #472e02; /* Brown background */
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  
+  /* Button hover effect */
+  .results-button:hover {
+    background-color: #774e05; /* Lighter brown on hover */
+  }
+  
+  /* Requirement Dropdown wrapper */
+  .requirement-dropdown {
+    margin-top: 5px;
+  }
+  
